@@ -1,0 +1,265 @@
+{
+ "original": {
+  "drive": {
+   "episodes": 1024,
+   "km": 457.4623898628841,
+   "collisions": 5,
+   "red": 3,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.30000000000000004,
+   "inc100": 1.8143568048266816,
+   "m_per_ep": 446.7406151004727
+  },
+  "shipped": {
+   "episodes": 1024,
+   "km": 458.65114988572765,
+   "collisions": 4,
+   "red": 1,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.30000000000000004,
+   "inc100": 1.1555623487089237,
+   "m_per_ep": 447.90151356028093
+  },
+  "shipped_inlane": {
+   "episodes": 1024,
+   "km": 459.0545461349732,
+   "collisions": 2,
+   "red": 1,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.1,
+   "inc100": 0.6753010129407421,
+   "m_per_ep": 448.29545520993474
+  }
+ },
+ "overtake": {
+  "drive": {
+   "episodes": 1024,
+   "km": 352.311361265557,
+   "collisions": 0,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.0,
+   "inc100": 0.0,
+   "m_per_ep": 344.0540637358955
+  },
+  "shipped": {
+   "episodes": 1024,
+   "km": 352.64975164803474,
+   "collisions": 1,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.0,
+   "inc100": 0.2835674760372606,
+   "m_per_ep": 344.3845230937839
+  },
+  "shipped_inlane": {
+   "episodes": 1024,
+   "km": 352.7451323986096,
+   "collisions": 0,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.0,
+   "inc100": 0.0,
+   "m_per_ep": 344.4776683580172
+  }
+ },
+ "start_stop": {
+  "drive": {
+   "episodes": 512,
+   "km": 325.55980621176434,
+   "collisions": 10,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.9,
+   "inc100": 3.3480791522863735,
+   "m_per_ep": 635.8589965073522
+  },
+  "shipped": {
+   "episodes": 512,
+   "km": 323.29472831508895,
+   "collisions": 22,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 2.3,
+   "inc100": 7.5163613482483935,
+   "m_per_ep": 631.4350162404081
+  },
+  "shipped_inlane": {
+   "episodes": 512,
+   "km": 328.9616093762543,
+   "collisions": 12,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 1.1,
+   "inc100": 3.9822275993964693,
+   "m_per_ep": 642.5031433129966
+  }
+ },
+ "start_crowd": {
+  "drive": {
+   "episodes": 512,
+   "km": 257.4296104391245,
+   "collisions": 0,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.0,
+   "inc100": 0.0,
+   "m_per_ep": 502.792207888915
+  },
+  "shipped": {
+   "episodes": 512,
+   "km": 247.32983522793268,
+   "collisions": 0,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.0,
+   "inc100": 0.0,
+   "m_per_ep": 483.066084429556
+  },
+  "shipped_inlane": {
+   "episodes": 512,
+   "km": 247.32983522793268,
+   "collisions": 0,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 0.0,
+   "inc100": 0.0,
+   "m_per_ep": 483.066084429556
+  }
+ },
+ "pull_out": {
+  "drive": {
+   "episodes": 512,
+   "km": 194.98483515781157,
+   "collisions": 203,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 26.299999999999997,
+   "inc100": 117.59888906971425,
+   "m_per_ep": 380.82975616760075,
+   "hard_collision_rate": 0.396484375,
+   "hard_mean_min_gap": 4.623061182625977
+  },
+  "shipped": {
+   "episodes": 512,
+   "km": 254.5621288858676,
+   "collisions": 64,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 21.299999999999997,
+   "inc100": 33.50851926534763,
+   "m_per_ep": 497.19165798021015,
+   "hard_collision_rate": 0.125,
+   "hard_mean_min_gap": 6.862051848540979
+  },
+  "shipped_inlane": {
+   "episodes": 512,
+   "km": 263.5706966951806,
+   "collisions": 43,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 9.899999999999999,
+   "inc100": 20.07051643573976,
+   "m_per_ep": 514.7865169827745,
+   "hard_collision_rate": 0.083984375,
+   "hard_mean_min_gap": 9.252234385697296
+  }
+ },
+ "swerve": {
+  "drive": {
+   "episodes": 512,
+   "km": 313.85597965670695,
+   "collisions": 93,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 103.80000000000001,
+   "inc100": 62.703919235586405,
+   "m_per_ep": 612.9999602670058,
+   "hard_collision_rate": 0.181640625,
+   "hard_mean_min_gap": 1.8250649194181288
+  },
+  "shipped": {
+   "episodes": 512,
+   "km": 315.7170834450597,
+   "collisions": 91,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 102.69999999999999,
+   "inc100": 61.352397496636314,
+   "m_per_ep": 616.6349286036323,
+   "hard_collision_rate": 0.177734375,
+   "hard_mean_min_gap": 1.8314089905739317
+  },
+  "shipped_inlane": {
+   "episodes": 512,
+   "km": 315.7093930216305,
+   "collisions": 91,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 102.39999999999999,
+   "inc100": 61.258867893977865,
+   "m_per_ep": 616.619908245372,
+   "hard_collision_rate": 0.177734375,
+   "hard_mean_min_gap": 1.8469062244133232
+  }
+ },
+ "side_merge": {
+  "drive": {
+   "episodes": 512,
+   "km": 192.7964677760958,
+   "collisions": 378,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 80.00000000000001,
+   "inc100": 237.55621940745212,
+   "m_per_ep": 376.5556011251871,
+   "hard_collision_rate": 0.73828125,
+   "hard_mean_min_gap": 0.35528017157274727
+  },
+  "shipped": {
+   "episodes": 512,
+   "km": 198.11144435994947,
+   "collisions": 373,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 79.20000000000002,
+   "inc100": 228.2553647826604,
+   "m_per_ep": 386.9364147655263,
+   "hard_collision_rate": 0.728515625,
+   "hard_mean_min_gap": 0.37081507516091855
+  },
+  "shipped_inlane": {
+   "episodes": 512,
+   "km": 206.8595879748382,
+   "collisions": 349,
+   "red": 0,
+   "stopsign": 0,
+   "offroad": 0,
+   "near_s": 69.9,
+   "inc100": 202.50451240913895,
+   "m_per_ep": 404.0226327633559,
+   "hard_collision_rate": 0.681640625,
+   "hard_mean_min_gap": 0.47797183716009967
+  }
+ }
+}

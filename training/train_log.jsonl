@@ -1,0 +1,987 @@
+{"phase": "es", "it": 0, "mean": 331.6, "max": 469.0, "sec": 1.6, "eval": 347.1, "km": 57.89, "inc100": 57.35, "coll": 22, "red": 3, "stop": 7, "speed": 8.09}
+{"phase": "es", "it": 1, "mean": 393.4, "max": 446.3, "sec": 1.6}
+{"phase": "es", "it": 2, "mean": 319.6, "max": 406.9, "sec": 1.7}
+{"phase": "es", "it": 3, "mean": 403.4, "max": 457.2, "sec": 1.8}
+{"phase": "es", "it": 4, "mean": 378.6, "max": 430.5, "sec": 1.6}
+{"phase": "es", "it": 5, "mean": 340.6, "max": 404.4, "sec": 1.7}
+{"phase": "es", "it": 6, "mean": 416.4, "max": 470.7, "sec": 1.6}
+{"phase": "es", "it": 7, "mean": 354.4, "max": 428.1, "sec": 1.7}
+{"phase": "es", "it": 8, "mean": 281.2, "max": 375.8, "sec": 1.6}
+{"phase": "es", "it": 9, "mean": 337.5, "max": 450.8, "sec": 1.7}
+{"phase": "es", "it": 10, "mean": 295.0, "max": 369.1, "sec": 1.6, "eval": 386.8, "km": 54.5, "inc100": 21.65, "coll": 8, "red": 1, "stop": 1, "speed": 7.47}
+{"phase": "es", "it": 11, "mean": 305.1, "max": 403.0, "sec": 1.7}
+{"phase": "es", "it": 12, "mean": 295.1, "max": 340.0, "sec": 1.6}
+{"phase": "es", "it": 13, "mean": 312.7, "max": 344.3, "sec": 1.8}
+{"phase": "es", "it": 14, "mean": 388.7, "max": 421.1, "sec": 1.7}
+{"phase": "es", "it": 15, "mean": 435.2, "max": 458.4, "sec": 1.7}
+{"phase": "es", "it": 16, "mean": 421.8, "max": 462.9, "sec": 1.6}
+{"phase": "es", "it": 17, "mean": 386.7, "max": 405.2, "sec": 1.6}
+{"phase": "es", "it": 18, "mean": 375.1, "max": 422.9, "sec": 1.6}
+{"phase": "es", "it": 19, "mean": 389.8, "max": 457.1, "sec": 1.6}
+{"phase": "es", "it": 20, "mean": 338.0, "max": 409.3, "sec": 1.6, "eval": 400.2, "km": 55.33, "inc100": 16.99, "coll": 6, "red": 1, "stop": 0, "speed": 7.58}
+{"phase": "es", "it": 21, "mean": 395.5, "max": 428.5, "sec": 1.7}
+{"phase": "es", "it": 22, "mean": 313.8, "max": 454.0, "sec": 1.7}
+{"phase": "es", "it": 23, "mean": 326.8, "max": 412.4, "sec": 1.6}
+{"phase": "es", "it": 24, "mean": 411.5, "max": 476.3, "sec": 1.6}
+{"phase": "es", "it": 25, "mean": 372.6, "max": 436.9, "sec": 1.7}
+{"phase": "es", "it": 26, "mean": 354.7, "max": 433.6, "sec": 1.6}
+{"phase": "es", "it": 27, "mean": 303.1, "max": 401.9, "sec": 1.6}
+{"phase": "es", "it": 28, "mean": 362.3, "max": 417.6, "sec": 1.7}
+{"phase": "es", "it": 29, "mean": 365.0, "max": 394.7, "sec": 1.6}
+{"phase": "es", "it": 30, "mean": 364.4, "max": 388.7, "sec": 1.6, "eval": 393.8, "km": 52.22, "inc100": 8.43, "coll": 2, "red": 0, "stop": 0, "speed": 7.01}
+{"phase": "es", "it": 31, "mean": 476.1, "max": 516.0, "sec": 1.6}
+{"phase": "es", "it": 32, "mean": 356.4, "max": 413.4, "sec": 1.6}
+{"phase": "es", "it": 33, "mean": 398.3, "max": 447.1, "sec": 1.6}
+{"phase": "es", "it": 34, "mean": 365.7, "max": 464.8, "sec": 1.7}
+{"phase": "es", "it": 35, "mean": 372.9, "max": 468.3, "sec": 1.6}
+{"phase": "es", "it": 36, "mean": 406.5, "max": 428.7, "sec": 1.6}
+{"phase": "es", "it": 37, "mean": 427.0, "max": 480.9, "sec": 1.7}
+{"phase": "es", "it": 38, "mean": 377.9, "max": 403.1, "sec": 1.7}
+{"phase": "es", "it": 39, "mean": 438.1, "max": 486.7, "sec": 1.6}
+{"phase": "es", "it": 40, "mean": 322.4, "max": 398.2, "sec": 1.6, "eval": 373.2, "km": 54.99, "inc100": 33.64, "coll": 9, "red": 5, "stop": 2, "speed": 7.6}
+{"phase": "es", "it": 41, "mean": 311.8, "max": 401.1, "sec": 1.6}
+{"phase": "es", "it": 42, "mean": 418.0, "max": 510.4, "sec": 1.6}
+{"phase": "es", "it": 43, "mean": 398.4, "max": 502.6, "sec": 1.6}
+{"phase": "es", "it": 44, "mean": 374.4, "max": 406.6, "sec": 1.6}
+{"phase": "es", "it": 45, "mean": 393.9, "max": 466.2, "sec": 1.6}
+{"phase": "es", "it": 46, "mean": 404.0, "max": 458.0, "sec": 1.7}
+{"phase": "es", "it": 47, "mean": 334.8, "max": 379.5, "sec": 1.7}
+{"phase": "es", "it": 48, "mean": 360.4, "max": 408.3, "sec": 1.7}
+{"phase": "es", "it": 49, "mean": 362.5, "max": 422.6, "sec": 1.6}
+{"phase": "es", "it": 50, "mean": 386.2, "max": 433.0, "sec": 1.6, "eval": 380.4, "km": 53.73, "inc100": 23.64, "coll": 7, "red": 2, "stop": 2, "speed": 7.22}
+{"phase": "es", "it": 51, "mean": 287.3, "max": 372.3, "sec": 2.3}
+{"phase": "es", "it": 52, "mean": 353.9, "max": 400.5, "sec": 1.8}
+{"phase": "es", "it": 53, "mean": 356.5, "max": 429.5, "sec": 1.7}
+{"phase": "es", "it": 54, "mean": 272.5, "max": 374.6, "sec": 1.7}
+{"phase": "es", "it": 55, "mean": 410.2, "max": 471.9, "sec": 1.6}
+{"phase": "es", "it": 56, "mean": 403.8, "max": 469.3, "sec": 1.7}
+{"phase": "es", "it": 57, "mean": 310.3, "max": 363.7, "sec": 1.8}
+{"phase": "es", "it": 58, "mean": 307.3, "max": 352.9, "sec": 2.3}
+{"phase": "es", "it": 59, "mean": 356.1, "max": 390.4, "sec": 2.6}
+{"phase": "es", "it": 60, "mean": 312.5, "max": 378.9, "sec": 1.9, "eval": 387.8, "km": 53.37, "inc100": 15.55, "coll": 6, "red": 0, "stop": 1, "speed": 7.21}
+{"phase": "es", "it": 61, "mean": 300.8, "max": 370.1, "sec": 2.3}
+{"phase": "es", "it": 62, "mean": 380.9, "max": 433.0, "sec": 2.2}
+{"phase": "es", "it": 63, "mean": 331.9, "max": 410.8, "sec": 2.3}
+{"phase": "es", "it": 64, "mean": 266.6, "max": 317.0, "sec": 2.2}
+{"phase": "es", "it": 65, "mean": 400.7, "max": 453.3, "sec": 2.2}
+{"phase": "es", "it": 66, "mean": 380.6, "max": 402.2, "sec": 2.2}
+{"phase": "es", "it": 67, "mean": 387.2, "max": 470.2, "sec": 2.0}
+{"phase": "es", "it": 68, "mean": 352.9, "max": 400.8, "sec": 2.1}
+{"phase": "es", "it": 69, "mean": 370.5, "max": 442.7, "sec": 1.9}
+{"phase": "es", "it": 70, "mean": 366.2, "max": 416.7, "sec": 2.1, "eval": 370.0, "km": 53.01, "inc100": 27.16, "coll": 7, "red": 2, "stop": 2, "speed": 7.24}
+{"phase": "es", "it": 71, "mean": 377.7, "max": 453.6, "sec": 2.1}
+{"phase": "es", "it": 72, "mean": 354.7, "max": 423.6, "sec": 2.0}
+{"phase": "es", "it": 73, "mean": 369.4, "max": 418.3, "sec": 1.9}
+{"phase": "es", "it": 74, "mean": 385.5, "max": 469.1, "sec": 2.1}
+{"phase": "es", "it": 75, "mean": 499.8, "max": 546.9, "sec": 2.1}
+{"phase": "es", "it": 76, "mean": 395.3, "max": 453.1, "sec": 2.1}
+{"phase": "es", "it": 77, "mean": 386.8, "max": 458.8, "sec": 2.1}
+{"phase": "es", "it": 78, "mean": 313.3, "max": 357.7, "sec": 2.1}
+{"phase": "es", "it": 79, "mean": 345.0, "max": 402.1, "sec": 2.1}
+{"phase": "es", "it": 80, "mean": 395.9, "max": 424.4, "sec": 2.1, "eval": 378.2, "km": 52.45, "inc100": 17.92, "coll": 6, "red": 1, "stop": 1, "speed": 7.09}
+{"phase": "es", "it": 81, "mean": 353.2, "max": 405.4, "sec": 2.8}
+{"phase": "es", "it": 82, "mean": 450.9, "max": 514.8, "sec": 2.1}
+{"phase": "es", "it": 83, "mean": 368.2, "max": 419.4, "sec": 1.9}
+{"phase": "es", "it": 84, "mean": 345.5, "max": 380.0, "sec": 2.0}
+{"phase": "es", "it": 85, "mean": 330.3, "max": 346.0, "sec": 2.0}
+{"phase": "es", "it": 86, "mean": 410.6, "max": 452.3, "sec": 2.0}
+{"phase": "es", "it": 87, "mean": 299.6, "max": 344.6, "sec": 1.8}
+{"phase": "es", "it": 88, "mean": 387.8, "max": 434.4, "sec": 2.2}
+{"phase": "es", "it": 89, "mean": 346.8, "max": 397.3, "sec": 2.1}
+{"phase": "es", "it": 90, "mean": 364.0, "max": 422.3, "sec": 2.5, "eval": 367.0, "km": 51.98, "inc100": 24.43, "coll": 8, "red": 0, "stop": 0, "speed": 7.04}
+{"phase": "es", "it": 91, "mean": 368.8, "max": 410.1, "sec": 1.9}
+{"phase": "es", "it": 92, "mean": 372.4, "max": 418.0, "sec": 3.1}
+{"phase": "es", "it": 93, "mean": 332.5, "max": 372.7, "sec": 2.2}
+{"phase": "es", "it": 94, "mean": 446.5, "max": 491.3, "sec": 2.0}
+{"phase": "es", "it": 95, "mean": 368.5, "max": 417.2, "sec": 2.2}
+{"phase": "es", "it": 96, "mean": 352.7, "max": 405.7, "sec": 1.9}
+{"phase": "es", "it": 97, "mean": 312.0, "max": 380.8, "sec": 2.2}
+{"phase": "es", "it": 98, "mean": 466.4, "max": 520.1, "sec": 1.9}
+{"phase": "es", "it": 99, "mean": 343.5, "max": 395.6, "sec": 2.0}
+{"phase": "es", "it": 100, "mean": 332.7, "max": 405.0, "sec": 2.0, "eval": 364.9, "km": 53.45, "inc100": 35.36, "coll": 8, "red": 2, "stop": 1, "speed": 7.39}
+{"phase": "es", "it": 101, "mean": 238.6, "max": 369.2, "sec": 4.8}
+{"phase": "es", "it": 102, "mean": 416.7, "max": 510.3, "sec": 4.6}
+{"phase": "es", "it": 103, "mean": 293.3, "max": 330.8, "sec": 3.2}
+{"phase": "es", "it": 104, "mean": 355.9, "max": 406.5, "sec": 4.5}
+{"phase": "es", "it": 105, "mean": 357.4, "max": 388.9, "sec": 4.2}
+{"phase": "es", "it": 106, "mean": 294.9, "max": 356.4, "sec": 3.2}
+{"phase": "es", "it": 107, "mean": 425.6, "max": 515.0, "sec": 3.5}
+{"phase": "es", "it": 108, "mean": 307.4, "max": 361.5, "sec": 3.9}
+{"phase": "es", "it": 109, "mean": 318.5, "max": 401.4, "sec": 3.5}
+{"phase": "es", "it": 110, "mean": 382.4, "max": 435.7, "sec": 3.8, "eval": 383.4, "km": 53.26, "inc100": 19.34, "coll": 5, "red": 1, "stop": 1, "speed": 7.16}
+{"phase": "es", "it": 111, "mean": 337.3, "max": 411.8, "sec": 4.3}
+{"phase": "es", "it": 112, "mean": 415.6, "max": 481.4, "sec": 4.7}
+{"phase": "es", "it": 113, "mean": 388.4, "max": 423.4, "sec": 3.8}
+{"phase": "es", "it": 114, "mean": 389.9, "max": 402.3, "sec": 4.0}
+{"phase": "es", "it": 115, "mean": 505.2, "max": 552.1, "sec": 3.2}
+{"phase": "es", "it": 116, "mean": 352.1, "max": 366.9, "sec": 3.8}
+{"phase": "es", "it": 117, "mean": 301.7, "max": 405.0, "sec": 3.6}
+{"phase": "es", "it": 118, "mean": 346.6, "max": 426.3, "sec": 3.6}
+{"phase": "es", "it": 119, "mean": 351.3, "max": 467.9, "sec": 3.4}
+{"phase": "es", "it": 120, "mean": 266.4, "max": 384.8, "sec": 3.9, "eval": 348.9, "km": 54.62, "inc100": 47.97, "coll": 12, "red": 4, "stop": 3, "speed": 7.64}
+{"phase": "es", "it": 121, "mean": 375.5, "max": 434.7, "sec": 3.7}
+{"phase": "es", "it": 122, "mean": 388.6, "max": 453.4, "sec": 3.7}
+{"phase": "es", "it": 123, "mean": 439.2, "max": 499.1, "sec": 3.7}
+{"phase": "es", "it": 124, "mean": 401.6, "max": 443.4, "sec": 3.6}
+{"phase": "es", "it": 125, "mean": 385.0, "max": 449.0, "sec": 3.8}
+{"phase": "es", "it": 126, "mean": 391.3, "max": 434.6, "sec": 3.6}
+{"phase": "es", "it": 127, "mean": 314.5, "max": 363.7, "sec": 4.0}
+{"phase": "es", "it": 128, "mean": 358.6, "max": 392.7, "sec": 4.1}
+{"phase": "es", "it": 129, "mean": 388.8, "max": 428.9, "sec": 4.1}
+{"phase": "es", "it": 130, "mean": 382.6, "max": 420.9, "sec": 3.7, "eval": 370.9, "km": 52.31, "inc100": 23.89, "coll": 6, "red": 2, "stop": 3, "speed": 7.04}
+{"phase": "es", "it": 131, "mean": 343.0, "max": 400.4, "sec": 3.9}
+{"phase": "es", "it": 132, "mean": 284.6, "max": 340.4, "sec": 4.1}
+{"phase": "es", "it": 133, "mean": 358.0, "max": 423.4, "sec": 4.5}
+{"phase": "es", "it": 134, "mean": 343.7, "max": 389.4, "sec": 3.7}
+{"phase": "es", "it": 135, "mean": 268.4, "max": 339.5, "sec": 3.5}
+{"phase": "es", "it": 136, "mean": 390.7, "max": 410.1, "sec": 4.0}
+{"phase": "es", "it": 137, "mean": 382.6, "max": 431.1, "sec": 4.2}
+{"phase": "es", "it": 138, "mean": 344.6, "max": 430.6, "sec": 4.8}
+{"phase": "es", "it": 139, "mean": 364.9, "max": 438.6, "sec": 4.2}
+{"phase": "es", "it": 140, "mean": 418.9, "max": 459.9, "sec": 3.8, "eval": 372.2, "km": 56.14, "inc100": 42.75, "coll": 9, "red": 5, "stop": 6, "speed": 7.71}
+{"phase": "es", "it": 141, "mean": 455.7, "max": 487.0, "sec": 3.9}
+{"phase": "es", "it": 142, "mean": 355.3, "max": 418.3, "sec": 4.7}
+{"phase": "es", "it": 143, "mean": 390.5, "max": 434.8, "sec": 7.2}
+{"phase": "es", "it": 144, "mean": 389.1, "max": 453.1, "sec": 5.1}
+{"phase": "es", "it": 145, "mean": 366.7, "max": 455.0, "sec": 4.2}
+{"phase": "es", "it": 146, "mean": 370.3, "max": 418.8, "sec": 5.0}
+{"phase": "es", "it": 147, "mean": 438.0, "max": 500.3, "sec": 5.7}
+{"phase": "es", "it": 148, "mean": 399.5, "max": 477.4, "sec": 7.6}
+{"phase": "es", "it": 149, "mean": 449.9, "max": 500.7, "sec": 5.5}
+{"phase": "es", "it": 150, "mean": 408.2, "max": 513.9, "sec": 5.3, "eval": 371.3, "km": 55.09, "inc100": 37.4, "coll": 8, "red": 4, "stop": 4, "speed": 7.57}
+{"phase": "es", "it": 151, "mean": 367.8, "max": 387.8, "sec": 5.5}
+{"phase": "es", "it": 152, "mean": 318.8, "max": 337.0, "sec": 9.1}
+{"phase": "es", "it": 153, "mean": 403.5, "max": 453.9, "sec": 5.2}
+{"phase": "es", "it": 154, "mean": 452.5, "max": 488.9, "sec": 4.6}
+{"phase": "es", "it": 155, "mean": 433.0, "max": 489.1, "sec": 4.6}
+{"phase": "es", "it": 156, "mean": 295.0, "max": 368.7, "sec": 4.3}
+{"phase": "es", "it": 157, "mean": 373.9, "max": 433.5, "sec": 5.1}
+{"phase": "es", "it": 158, "mean": 393.5, "max": 436.1, "sec": 5.8}
+{"phase": "es", "it": 159, "mean": 432.7, "max": 462.7, "sec": 5.1}
+{"phase": "es", "it": 160, "mean": 376.7, "max": 434.9, "sec": 5.2, "eval": 385.9, "km": 54.8, "inc100": 27.37, "coll": 5, "red": 3, "stop": 4, "speed": 7.45}
+{"phase": "es", "it": 161, "mean": 386.7, "max": 450.2, "sec": 3.4}
+{"phase": "es", "it": 162, "mean": 391.3, "max": 420.3, "sec": 3.5}
+{"phase": "es", "it": 163, "mean": 317.1, "max": 418.7, "sec": 4.0}
+{"phase": "es", "it": 164, "mean": 350.4, "max": 401.7, "sec": 3.3}
+{"phase": "es", "it": 165, "mean": 459.0, "max": 495.4, "sec": 3.3}
+{"phase": "es", "it": 166, "mean": 412.0, "max": 456.8, "sec": 3.7}
+{"phase": "es", "it": 167, "mean": 374.6, "max": 426.6, "sec": 3.7}
+{"phase": "es", "it": 168, "mean": 336.6, "max": 391.0, "sec": 3.9}
+{"phase": "es", "it": 169, "mean": 412.2, "max": 468.7, "sec": 3.7}
+{"phase": "es", "it": 170, "mean": 511.9, "max": 550.4, "sec": 3.5, "eval": 406.8, "km": 55.3, "inc100": 14.83, "coll": 3, "red": 2, "stop": 1, "speed": 7.45}
+{"phase": "es", "it": 171, "mean": 362.3, "max": 417.7, "sec": 3.1}
+{"phase": "es", "it": 172, "mean": 336.2, "max": 403.9, "sec": 3.6}
+{"phase": "es", "it": 173, "mean": 416.9, "max": 458.1, "sec": 3.0}
+{"phase": "es", "it": 174, "mean": 376.6, "max": 414.3, "sec": 2.7}
+{"phase": "es", "it": 175, "mean": 389.7, "max": 404.5, "sec": 2.5}
+{"phase": "es", "it": 176, "mean": 411.8, "max": 466.9, "sec": 2.3}
+{"phase": "es", "it": 177, "mean": 438.3, "max": 487.9, "sec": 2.4}
+{"phase": "es", "it": 178, "mean": 302.6, "max": 349.5, "sec": 2.3}
+{"phase": "es", "it": 179, "mean": 335.3, "max": 392.2, "sec": 2.4}
+{"phase": "es", "it": 180, "mean": 391.2, "max": 422.8, "sec": 2.2, "eval": 398.4, "km": 54.24, "inc100": 20.1, "coll": 2, "red": 1, "stop": 3, "speed": 7.36}
+{"phase": "es", "it": 181, "mean": 345.3, "max": 397.4, "sec": 2.3}
+{"phase": "es", "it": 182, "mean": 297.7, "max": 360.6, "sec": 2.3}
+{"phase": "es", "it": 183, "mean": 404.0, "max": 457.5, "sec": 2.3}
+{"phase": "es", "it": 184, "mean": 390.7, "max": 439.1, "sec": 2.3}
+{"phase": "es", "it": 185, "mean": 365.9, "max": 422.8, "sec": 2.3}
+{"phase": "es", "it": 186, "mean": 456.0, "max": 481.3, "sec": 2.5}
+{"phase": "es", "it": 187, "mean": 361.8, "max": 413.7, "sec": 2.3}
+{"phase": "es", "it": 188, "mean": 417.5, "max": 472.7, "sec": 2.3}
+{"phase": "es", "it": 189, "mean": 247.0, "max": 312.1, "sec": 2.3}
+{"phase": "es", "it": 190, "mean": 317.5, "max": 380.0, "sec": 2.3, "eval": 384.6, "km": 53.74, "inc100": 22.52, "coll": 4, "red": 3, "stop": 2, "speed": 7.25}
+{"phase": "es", "it": 191, "mean": 384.1, "max": 419.3, "sec": 2.3}
+{"phase": "es", "it": 192, "mean": 372.7, "max": 403.7, "sec": 2.1}
+{"phase": "es", "it": 193, "mean": 437.9, "max": 481.6, "sec": 1.8}
+{"phase": "es", "it": 194, "mean": 433.5, "max": 451.9, "sec": 1.9}
+{"phase": "es", "it": 195, "mean": 397.5, "max": 420.6, "sec": 2.1}
+{"phase": "es", "it": 196, "mean": 270.0, "max": 312.1, "sec": 2.1}
+{"phase": "es", "it": 197, "mean": 420.3, "max": 474.6, "sec": 2.0}
+{"phase": "es", "it": 198, "mean": 369.8, "max": 411.2, "sec": 2.0}
+{"phase": "es", "it": 199, "mean": 398.3, "max": 455.5, "sec": 2.2}
+{"phase": "es", "it": 200, "mean": 330.8, "max": 436.0, "sec": 2.3, "eval": 376.7, "km": 54.25, "inc100": 28.39, "coll": 7, "red": 2, "stop": 2, "speed": 7.44}
+{"phase": "es", "it": 201, "mean": 380.6, "max": 450.2, "sec": 2.2}
+{"phase": "es", "it": 202, "mean": 382.8, "max": 419.6, "sec": 2.2}
+{"phase": "es", "it": 203, "mean": 390.1, "max": 458.1, "sec": 2.2}
+{"phase": "es", "it": 204, "mean": 185.6, "max": 271.1, "sec": 2.2}
+{"phase": "es", "it": 205, "mean": 408.3, "max": 432.6, "sec": 2.2}
+{"phase": "es", "it": 206, "mean": 385.6, "max": 453.3, "sec": 2.2}
+{"phase": "es", "it": 207, "mean": 339.3, "max": 416.6, "sec": 2.2}
+{"phase": "es", "it": 208, "mean": 436.7, "max": 480.1, "sec": 2.2}
+{"phase": "es", "it": 209, "mean": 253.9, "max": 300.7, "sec": 2.2}
+{"phase": "es", "it": 210, "mean": 362.1, "max": 425.2, "sec": 2.0, "eval": 382.9, "km": 51.5, "inc100": 11.85, "coll": 2, "red": 1, "stop": 0, "speed": 6.82}
+{"phase": "es", "it": 211, "mean": 366.7, "max": 393.8, "sec": 2.0}
+{"phase": "es", "it": 212, "mean": 355.1, "max": 398.0, "sec": 2.0}
+{"phase": "es", "it": 213, "mean": 351.1, "max": 399.8, "sec": 2.0}
+{"phase": "es", "it": 214, "mean": 335.7, "max": 371.1, "sec": 2.0}
+{"phase": "es", "it": 215, "mean": 347.1, "max": 357.8, "sec": 2.0}
+{"phase": "es", "it": 216, "mean": 347.0, "max": 433.1, "sec": 2.1}
+{"phase": "es", "it": 217, "mean": 370.1, "max": 385.9, "sec": 2.0}
+{"phase": "es", "it": 218, "mean": 317.6, "max": 359.3, "sec": 2.1}
+{"phase": "es", "it": 219, "mean": 418.6, "max": 478.0, "sec": 2.0}
+{"phase": "es", "it": 220, "mean": 444.4, "max": 473.1, "sec": 2.1, "eval": 361.3, "km": 52.87, "inc100": 33.29, "coll": 7, "red": 4, "stop": 2, "speed": 7.26}
+{"phase": "es", "it": 221, "mean": 351.8, "max": 443.0, "sec": 2.1}
+{"phase": "es", "it": 222, "mean": 339.0, "max": 401.8, "sec": 2.1}
+{"phase": "es", "it": 223, "mean": 460.8, "max": 494.0, "sec": 2.0}
+{"phase": "es", "it": 224, "mean": 311.7, "max": 350.5, "sec": 2.1}
+{"phase": "es", "it": 225, "mean": 360.7, "max": 443.6, "sec": 2.0}
+{"phase": "es", "it": 226, "mean": 240.1, "max": 296.1, "sec": 2.0}
+{"phase": "es", "it": 227, "mean": 384.8, "max": 441.4, "sec": 2.0}
+{"phase": "es", "it": 228, "mean": 343.6, "max": 415.0, "sec": 2.0}
+{"phase": "es", "it": 229, "mean": 330.5, "max": 432.3, "sec": 2.0}
+{"phase": "es", "it": 230, "mean": 317.0, "max": 394.8, "sec": 2.0, "eval": 370.3, "km": 54.66, "inc100": 36.41, "coll": 8, "red": 4, "stop": 4, "speed": 7.43}
+{"phase": "es", "it": 231, "mean": 459.2, "max": 496.7, "sec": 2.0}
+{"phase": "es", "it": 232, "mean": 363.9, "max": 458.1, "sec": 2.1}
+{"phase": "es", "it": 233, "mean": 267.2, "max": 325.9, "sec": 2.2}
+{"phase": "es", "it": 234, "mean": 454.0, "max": 521.9, "sec": 2.5}
+{"phase": "es", "it": 235, "mean": 435.5, "max": 467.3, "sec": 2.3}
+{"phase": "es", "it": 236, "mean": 413.9, "max": 484.7, "sec": 2.3}
+{"phase": "es", "it": 237, "mean": 418.9, "max": 475.8, "sec": 2.1}
+{"phase": "es", "it": 238, "mean": 475.2, "max": 538.5, "sec": 2.2}
+{"phase": "es", "it": 239, "mean": 328.6, "max": 422.6, "sec": 2.2}
+{"phase": "es", "it": 240, "mean": 354.7, "max": 402.2, "sec": 2.3, "eval": 383.1, "km": 52.78, "inc100": 18.0, "coll": 4, "red": 1, "stop": 1, "speed": 7.1}
+{"phase": "es", "it": 241, "mean": 403.4, "max": 422.3, "sec": 2.5}
+{"phase": "es", "it": 242, "mean": 419.2, "max": 478.1, "sec": 3.7}
+{"phase": "es", "it": 243, "mean": 291.0, "max": 334.1, "sec": 3.0}
+{"phase": "es", "it": 244, "mean": 427.4, "max": 486.8, "sec": 3.1}
+{"phase": "es", "it": 245, "mean": 373.9, "max": 432.9, "sec": 3.4}
+{"phase": "es", "it": 246, "mean": 464.6, "max": 485.7, "sec": 3.7}
+{"phase": "es", "it": 247, "mean": 437.3, "max": 457.4, "sec": 3.4}
+{"phase": "es", "it": 248, "mean": 385.8, "max": 441.7, "sec": 3.6}
+{"phase": "es", "it": 249, "mean": 326.2, "max": 364.2, "sec": 4.1}
+{"phase": "es", "it": 250, "mean": 277.4, "max": 347.2, "sec": 4.6, "eval": 349.3, "km": 54.12, "inc100": 48.41, "coll": 10, "red": 5, "stop": 5, "speed": 7.5}
+{"phase": "es", "it": 251, "mean": 342.4, "max": 386.1, "sec": 4.0}
+{"phase": "es", "it": 252, "mean": 362.5, "max": 395.0, "sec": 4.6}
+{"phase": "es", "it": 253, "mean": 272.9, "max": 318.2, "sec": 4.3}
+{"phase": "es", "it": 254, "mean": 363.2, "max": 463.2, "sec": 4.0}
+{"phase": "es", "it": 255, "mean": 397.8, "max": 429.4, "sec": 3.9}
+{"phase": "es", "it": 256, "mean": 370.6, "max": 416.1, "sec": 4.0}
+{"phase": "es", "it": 257, "mean": 354.8, "max": 423.7, "sec": 4.3}
+{"phase": "es", "it": 258, "mean": 378.7, "max": 434.4, "sec": 4.8}
+{"phase": "es", "it": 259, "mean": 264.1, "max": 326.8, "sec": 3.8}
+{"phase": "es", "it": 260, "mean": 354.3, "max": 396.5, "sec": 4.0, "eval": 340.8, "km": 53.94, "inc100": 50.42, "coll": 13, "red": 4, "stop": 5, "speed": 7.53}
+{"phase": "es", "it": 261, "mean": 268.1, "max": 346.5, "sec": 3.9}
+{"phase": "es", "it": 262, "mean": 328.0, "max": 354.1, "sec": 3.7}
+{"phase": "es", "it": 263, "mean": 416.1, "max": 467.6, "sec": 3.9}
+{"phase": "es", "it": 264, "mean": 355.6, "max": 400.0, "sec": 4.2}
+{"phase": "es", "it": 265, "mean": 389.7, "max": 447.0, "sec": 3.6}
+{"phase": "es", "it": 266, "mean": 407.4, "max": 453.1, "sec": 3.4}
+{"phase": "es", "it": 267, "mean": 371.3, "max": 473.2, "sec": 3.6}
+{"phase": "es", "it": 268, "mean": 385.8, "max": 427.5, "sec": 4.0}
+{"phase": "es", "it": 269, "mean": 355.3, "max": 395.6, "sec": 3.9}
+{"phase": "es", "it": 270, "mean": 375.4, "max": 407.1, "sec": 4.6, "eval": 345.6, "km": 52.28, "inc100": 40.93, "coll": 9, "red": 5, "stop": 2, "speed": 7.25}
+{"phase": "es", "it": 271, "mean": 405.7, "max": 425.8, "sec": 4.9}
+{"phase": "es", "it": 272, "mean": 273.1, "max": 337.3, "sec": 7.6}
+{"phase": "es", "it": 273, "mean": 391.9, "max": 475.4, "sec": 6.0}
+{"phase": "es", "it": 274, "mean": 276.6, "max": 318.9, "sec": 6.6}
+{"phase": "es", "it": 275, "mean": 496.2, "max": 539.7, "sec": 5.8}
+{"phase": "es", "it": 276, "mean": 491.7, "max": 505.5, "sec": 5.4}
+{"phase": "es", "it": 277, "mean": 366.8, "max": 411.2, "sec": 5.2}
+{"phase": "es", "it": 278, "mean": 303.9, "max": 345.5, "sec": 5.7}
+{"phase": "es", "it": 279, "mean": 338.1, "max": 399.9, "sec": 5.0}
+{"phase": "es", "it": 280, "mean": 281.6, "max": 347.9, "sec": 5.2, "eval": 361.2, "km": 55.2, "inc100": 45.84, "coll": 9, "red": 7, "stop": 5, "speed": 7.59}
+{"phase": "es", "it": 281, "mean": 412.3, "max": 455.9, "sec": 5.7}
+{"phase": "es", "it": 282, "mean": 366.9, "max": 415.4, "sec": 5.2}
+{"phase": "es", "it": 283, "mean": 392.1, "max": 411.1, "sec": 4.8}
+{"phase": "es", "it": 284, "mean": 392.4, "max": 442.2, "sec": 5.5}
+{"phase": "es", "it": 285, "mean": 404.9, "max": 442.0, "sec": 6.1}
+{"phase": "es", "it": 286, "mean": 297.5, "max": 376.9, "sec": 5.6}
+{"phase": "es", "it": 287, "mean": 435.3, "max": 466.7, "sec": 5.4}
+{"phase": "es", "it": 288, "mean": 407.2, "max": 429.0, "sec": 6.6}
+{"phase": "es", "it": 289, "mean": 354.3, "max": 399.6, "sec": 6.0}
+{"phase": "es", "it": 290, "mean": 374.1, "max": 408.7, "sec": 5.6, "eval": 346.6, "km": 52.96, "inc100": 45.89, "coll": 10, "red": 4, "stop": 3, "speed": 7.35}
+{"phase": "es", "it": 291, "mean": 433.8, "max": 452.8, "sec": 6.1}
+{"phase": "es", "it": 292, "mean": 349.6, "max": 428.3, "sec": 5.7}
+{"phase": "es", "it": 293, "mean": 362.4, "max": 423.6, "sec": 7.0}
+{"phase": "es", "it": 294, "mean": 398.8, "max": 451.5, "sec": 6.2}
+{"phase": "es", "it": 295, "mean": 241.1, "max": 305.9, "sec": 4.1}
+{"phase": "es", "it": 296, "mean": 384.2, "max": 428.6, "sec": 6.8}
+{"phase": "es", "it": 297, "mean": 445.3, "max": 517.6, "sec": 6.2}
+{"phase": "es", "it": 298, "mean": 420.2, "max": 452.3, "sec": 5.0}
+{"phase": "es", "it": 299, "mean": 402.1, "max": 440.1, "sec": 6.4}
+{"phase": "es", "it": 300, "mean": 290.1, "max": 375.1, "sec": 6.0, "eval": 353.8, "km": 54.97, "inc100": 52.03, "coll": 10, "red": 6, "stop": 7, "speed": 7.57}
+{"phase": "es", "it": 301, "mean": 370.1, "max": 413.4, "sec": 5.9}
+{"phase": "es", "it": 302, "mean": 346.1, "max": 388.5, "sec": 6.0}
+{"phase": "es", "it": 303, "mean": 380.4, "max": 420.9, "sec": 5.3}
+{"phase": "es", "it": 304, "mean": 376.7, "max": 432.5, "sec": 5.4}
+{"phase": "es", "it": 305, "mean": 366.0, "max": 424.9, "sec": 5.4}
+{"phase": "es", "it": 306, "mean": 309.8, "max": 378.4, "sec": 5.5}
+{"phase": "es", "it": 307, "mean": 342.6, "max": 388.3, "sec": 5.3}
+{"phase": "es", "it": 308, "mean": 377.9, "max": 430.5, "sec": 5.9}
+{"phase": "es", "it": 309, "mean": 377.8, "max": 459.1, "sec": 6.4}
+{"phase": "es", "it": 310, "mean": 362.5, "max": 419.6, "sec": 5.9, "eval": 371.3, "km": 56.44, "inc100": 49.44, "coll": 7, "red": 6, "stop": 9, "speed": 7.69}
+{"phase": "es", "it": 311, "mean": 415.5, "max": 464.4, "sec": 5.0}
+{"phase": "es", "it": 312, "mean": 373.8, "max": 427.8, "sec": 5.1}
+{"phase": "es", "it": 313, "mean": 465.8, "max": 520.6, "sec": 5.1}
+{"phase": "es", "it": 314, "mean": 329.8, "max": 380.4, "sec": 4.9}
+{"phase": "es", "it": 315, "mean": 308.5, "max": 375.5, "sec": 4.6}
+{"phase": "es", "it": 316, "mean": 428.4, "max": 472.7, "sec": 4.8}
+{"phase": "es", "it": 317, "mean": 323.7, "max": 387.8, "sec": 4.2}
+{"phase": "es", "it": 318, "mean": 462.8, "max": 477.6, "sec": 4.2}
+{"phase": "es", "it": 319, "mean": 379.4, "max": 407.5, "sec": 3.9}
+{"phase": "es", "it": 320, "mean": 339.2, "max": 378.9, "sec": 5.0, "eval": 357.1, "km": 57.2, "inc100": 59.62, "coll": 12, "red": 5, "stop": 9, "speed": 7.96}
+{"phase": "es", "it": 321, "mean": 318.4, "max": 375.2, "sec": 5.9}
+{"phase": "es", "it": 322, "mean": 323.4, "max": 383.2, "sec": 4.8}
+{"phase": "es", "it": 323, "mean": 336.2, "max": 411.7, "sec": 6.3}
+{"phase": "es", "it": 324, "mean": 355.3, "max": 393.4, "sec": 6.1}
+{"phase": "es", "it": 325, "mean": 383.3, "max": 435.1, "sec": 6.8}
+{"phase": "es", "it": 326, "mean": 389.5, "max": 414.7, "sec": 5.5}
+{"phase": "es", "it": 327, "mean": 275.0, "max": 395.4, "sec": 4.6}
+{"phase": "es", "it": 328, "mean": 377.1, "max": 431.3, "sec": 5.5}
+{"phase": "es", "it": 329, "mean": 316.7, "max": 431.0, "sec": 7.4}
+{"phase": "es", "it": 330, "mean": 381.9, "max": 398.3, "sec": 7.3, "eval": 365.3, "km": 55.42, "inc100": 46.01, "coll": 8, "red": 5, "stop": 7, "speed": 7.56}
+{"phase": "es", "it": 331, "mean": 429.7, "max": 469.4, "sec": 4.0}
+{"phase": "es", "it": 332, "mean": 406.4, "max": 453.2, "sec": 5.1}
+{"phase": "es", "it": 333, "mean": 338.5, "max": 382.7, "sec": 3.7}
+{"phase": "es", "it": 334, "mean": 397.2, "max": 429.2, "sec": 3.2}
+{"phase": "es", "it": 335, "mean": 392.6, "max": 444.0, "sec": 3.1}
+{"phase": "es", "it": 336, "mean": 376.6, "max": 451.1, "sec": 2.8}
+{"phase": "es", "it": 337, "mean": 370.8, "max": 399.5, "sec": 2.6}
+{"phase": "es", "it": 338, "mean": 415.1, "max": 451.4, "sec": 2.7}
+{"phase": "es", "it": 339, "mean": 389.7, "max": 419.9, "sec": 2.7}
+{"phase": "es", "it": 340, "mean": 482.9, "max": 499.3, "sec": 3.0, "eval": 369.2, "km": 52.19, "inc100": 28.93, "coll": 3, "red": 3, "stop": 4, "speed": 7.0}
+{"phase": "es", "it": 341, "mean": 388.6, "max": 449.1, "sec": 2.1}
+{"phase": "es", "it": 342, "mean": 394.1, "max": 417.2, "sec": 2.9}
+{"phase": "es", "it": 343, "mean": 395.9, "max": 423.8, "sec": 3.1}
+{"phase": "es", "it": 344, "mean": 326.4, "max": 374.6, "sec": 3.0}
+{"phase": "es", "it": 345, "mean": 372.4, "max": 393.5, "sec": 3.1}
+{"phase": "es", "it": 346, "mean": 301.1, "max": 372.6, "sec": 2.6}
+{"phase": "es", "it": 347, "mean": 466.3, "max": 474.6, "sec": 2.6}
+{"phase": "es", "it": 348, "mean": 402.7, "max": 447.9, "sec": 2.6}
+{"phase": "es", "it": 349, "mean": 313.6, "max": 357.2, "sec": 2.5}
+{"phase": "es", "it": 350, "mean": 353.6, "max": 407.3, "sec": 2.4, "eval": 376.1, "km": 54.21, "inc100": 32.65, "coll": 5, "red": 4, "stop": 5, "speed": 7.36}
+{"phase": "es", "it": 351, "mean": 407.3, "max": 440.7, "sec": 2.3}
+{"phase": "es", "it": 352, "mean": 332.4, "max": 389.4, "sec": 2.4}
+{"phase": "es", "it": 353, "mean": 414.4, "max": 458.1, "sec": 2.3}
+{"phase": "es", "it": 354, "mean": 274.2, "max": 378.2, "sec": 2.5}
+{"phase": "es", "it": 355, "mean": 356.9, "max": 420.5, "sec": 2.7}
+{"phase": "es", "it": 356, "mean": 377.5, "max": 417.2, "sec": 2.7}
+{"phase": "es", "it": 357, "mean": 334.1, "max": 372.4, "sec": 2.8}
+{"phase": "es", "it": 358, "mean": 357.5, "max": 395.2, "sec": 2.8}
+{"phase": "es", "it": 359, "mean": 466.8, "max": 491.2, "sec": 2.7}
+{"phase": "es", "it": 360, "mean": 454.7, "max": 516.8, "sec": 2.8, "eval": 386.0, "km": 54.26, "inc100": 30.23, "coll": 2, "red": 4, "stop": 6, "speed": 7.28}
+{"phase": "es", "it": 361, "mean": 407.5, "max": 465.7, "sec": 2.3}
+{"phase": "es", "it": 362, "mean": 322.7, "max": 362.1, "sec": 2.9}
+{"phase": "es", "it": 363, "mean": 378.2, "max": 393.6, "sec": 2.6}
+{"phase": "es", "it": 364, "mean": 372.9, "max": 404.9, "sec": 2.4}
+{"phase": "es", "it": 365, "mean": 419.8, "max": 458.6, "sec": 2.4}
+{"phase": "es", "it": 366, "mean": 471.9, "max": 480.6, "sec": 2.4}
+{"phase": "es", "it": 367, "mean": 367.5, "max": 382.1, "sec": 2.4}
+{"phase": "es", "it": 368, "mean": 350.7, "max": 364.8, "sec": 2.5}
+{"phase": "es", "it": 369, "mean": 341.5, "max": 392.0, "sec": 2.3}
+{"phase": "es", "it": 370, "mean": 477.3, "max": 503.3, "sec": 2.5, "eval": 364.2, "km": 55.67, "inc100": 47.07, "coll": 9, "red": 5, "stop": 9, "speed": 7.63}
+{"phase": "es", "it": 371, "mean": 384.7, "max": 444.8, "sec": 2.6}
+{"phase": "es", "it": 372, "mean": 324.8, "max": 367.0, "sec": 2.7}
+{"phase": "es", "it": 373, "mean": 252.8, "max": 322.7, "sec": 2.7}
+{"phase": "es", "it": 374, "mean": 324.8, "max": 372.1, "sec": 2.7}
+{"phase": "es", "it": 375, "mean": 230.0, "max": 308.1, "sec": 2.7}
+{"phase": "es", "it": 376, "mean": 398.8, "max": 409.8, "sec": 2.7}
+{"phase": "es", "it": 377, "mean": 259.3, "max": 317.2, "sec": 2.6}
+{"phase": "es", "it": 378, "mean": 426.0, "max": 475.6, "sec": 2.8}
+{"phase": "es", "it": 379, "mean": 320.4, "max": 394.3, "sec": 2.8}
+{"phase": "es", "it": 380, "mean": 404.4, "max": 433.0, "sec": 2.7, "eval": 335.4, "km": 56.16, "inc100": 64.45, "coll": 16, "red": 6, "stop": 10, "speed": 7.86}
+{"phase": "es", "it": 381, "mean": 283.6, "max": 373.7, "sec": 2.2}
+{"phase": "es", "it": 382, "mean": 366.9, "max": 412.0, "sec": 2.8}
+{"phase": "es", "it": 383, "mean": 374.2, "max": 427.7, "sec": 3.0}
+{"phase": "es", "it": 384, "mean": 377.8, "max": 399.7, "sec": 2.8}
+{"phase": "es", "it": 385, "mean": 388.1, "max": 445.7, "sec": 2.9}
+{"phase": "es", "it": 386, "mean": 408.2, "max": 473.2, "sec": 2.9}
+{"phase": "es", "it": 387, "mean": 363.9, "max": 377.0, "sec": 2.5}
+{"phase": "es", "it": 388, "mean": 318.3, "max": 366.0, "sec": 2.5}
+{"phase": "es", "it": 389, "mean": 300.7, "max": 369.4, "sec": 2.6}
+{"phase": "es", "it": 390, "mean": 460.2, "max": 493.1, "sec": 2.5, "eval": 360.8, "km": 54.9, "inc100": 39.89, "coll": 12, "red": 3, "stop": 5, "speed": 7.5}
+{"phase": "es", "it": 391, "mean": 295.5, "max": 343.9, "sec": 2.4}
+{"phase": "es", "it": 392, "mean": 373.3, "max": 398.9, "sec": 2.5}
+{"phase": "es", "it": 393, "mean": 391.7, "max": 439.4, "sec": 2.4}
+{"phase": "es", "it": 394, "mean": 334.2, "max": 372.8, "sec": 2.5}
+{"phase": "es", "it": 395, "mean": 483.9, "max": 523.8, "sec": 2.7}
+{"phase": "es", "it": 396, "mean": 272.6, "max": 324.9, "sec": 2.6}
+{"phase": "es", "it": 397, "mean": 364.3, "max": 379.9, "sec": 2.7}
+{"phase": "es", "it": 398, "mean": 335.3, "max": 344.3, "sec": 2.6}
+{"phase": "es", "it": 399, "mean": 288.1, "max": 327.1, "sec": 2.6}
+{"phase": "es", "it": 400, "mean": 356.7, "max": 398.7, "sec": 2.9, "eval": 387.1, "km": 54.07, "inc100": 22.93, "coll": 4, "red": 3, "stop": 4, "speed": 7.29}
+{"phase": "es", "it": 401, "mean": 372.0, "max": 387.7, "sec": 2.1}
+{"phase": "es", "it": 402, "mean": 364.0, "max": 394.6, "sec": 2.6}
+{"phase": "es", "it": 403, "mean": 370.7, "max": 383.0, "sec": 2.6}
+{"phase": "es", "it": 404, "mean": 367.6, "max": 405.3, "sec": 2.5}
+{"phase": "es", "it": 405, "mean": 403.5, "max": 468.4, "sec": 2.4}
+{"phase": "es", "it": 406, "mean": 343.7, "max": 392.0, "sec": 2.4}
+{"phase": "es", "it": 407, "mean": 355.1, "max": 400.5, "sec": 2.5}
+{"phase": "es", "it": 408, "mean": 486.1, "max": 514.4, "sec": 2.8}
+{"phase": "es", "it": 409, "mean": 341.1, "max": 431.8, "sec": 2.4}
+{"phase": "es", "it": 410, "mean": 366.3, "max": 396.4, "sec": 2.5, "eval": 359.7, "km": 54.36, "inc100": 44.52, "coll": 7, "red": 4, "stop": 6, "speed": 7.54}
+{"phase": "es", "it": 411, "mean": 375.1, "max": 428.2, "sec": 2.6}
+{"phase": "es", "it": 412, "mean": 467.0, "max": 482.2, "sec": 2.6}
+{"phase": "es", "it": 413, "mean": 290.3, "max": 355.1, "sec": 2.5}
+{"phase": "es", "it": 414, "mean": 379.3, "max": 426.5, "sec": 2.5}
+{"phase": "es", "it": 415, "mean": 277.0, "max": 343.2, "sec": 2.5}
+{"phase": "es", "it": 416, "mean": 482.2, "max": 516.2, "sec": 2.5}
+{"phase": "es", "it": 417, "mean": 365.1, "max": 402.5, "sec": 2.6}
+{"phase": "es", "it": 418, "mean": 368.3, "max": 433.2, "sec": 2.9}
+{"phase": "es", "it": 419, "mean": 341.9, "max": 396.2, "sec": 2.9}
+{"phase": "es", "it": 420, "mean": 390.4, "max": 467.2, "sec": 2.8, "eval": 356.9, "km": 54.46, "inc100": 48.11, "coll": 8, "red": 3, "stop": 7, "speed": 7.52}
+{"phase": "es", "it": 421, "mean": 453.1, "max": 498.0, "sec": 2.4}
+{"phase": "es", "it": 422, "mean": 280.4, "max": 342.1, "sec": 2.9}
+{"phase": "es", "it": 423, "mean": 481.5, "max": 503.5, "sec": 2.9}
+{"phase": "es", "it": 424, "mean": 343.7, "max": 401.6, "sec": 2.7}
+{"phase": "es", "it": 425, "mean": 423.9, "max": 458.0, "sec": 2.6}
+{"phase": "es", "it": 426, "mean": 351.2, "max": 383.9, "sec": 2.7}
+{"phase": "es", "it": 427, "mean": 251.0, "max": 318.9, "sec": 3.1}
+{"phase": "es", "it": 428, "mean": 292.0, "max": 354.1, "sec": 2.9}
+{"phase": "es", "it": 429, "mean": 370.6, "max": 408.7, "sec": 2.9}
+{"phase": "es", "it": 430, "mean": 365.1, "max": 422.5, "sec": 3.1, "eval": 358.6, "km": 54.5, "inc100": 38.72, "coll": 12, "red": 1, "stop": 4, "speed": 7.58}
+{"phase": "es", "it": 431, "mean": 377.6, "max": 461.2, "sec": 3.1}
+{"phase": "es", "it": 432, "mean": 347.0, "max": 375.5, "sec": 3.3}
+{"phase": "es", "it": 433, "mean": 280.8, "max": 336.7, "sec": 3.0}
+{"phase": "es", "it": 434, "mean": 239.7, "max": 340.7, "sec": 3.1}
+{"phase": "es", "it": 435, "mean": 262.6, "max": 345.2, "sec": 3.2}
+{"phase": "es", "it": 436, "mean": 425.6, "max": 438.8, "sec": 3.0}
+{"phase": "es", "it": 437, "mean": 353.8, "max": 404.4, "sec": 3.1}
+{"phase": "es", "it": 438, "mean": 303.6, "max": 380.2, "sec": 2.9}
+{"phase": "es", "it": 439, "mean": 449.4, "max": 487.5, "sec": 2.7}
+{"phase": "es", "it": 440, "mean": 363.5, "max": 436.3, "sec": 2.6, "eval": 377.5, "km": 53.11, "inc100": 23.54, "coll": 5, "red": 1, "stop": 4, "speed": 7.1}
+{"phase": "es", "it": 441, "mean": 398.2, "max": 438.0, "sec": 2.8}
+{"phase": "es", "it": 442, "mean": 370.4, "max": 393.2, "sec": 2.9}
+{"phase": "es", "it": 443, "mean": 406.1, "max": 439.4, "sec": 2.8}
+{"phase": "es", "it": 444, "mean": 455.7, "max": 483.4, "sec": 3.0}
+{"phase": "es", "it": 445, "mean": 370.7, "max": 389.4, "sec": 3.0}
+{"phase": "es", "it": 446, "mean": 398.2, "max": 421.3, "sec": 3.0}
+{"phase": "es", "it": 447, "mean": 409.5, "max": 446.5, "sec": 3.2}
+{"phase": "es", "it": 448, "mean": 380.2, "max": 405.5, "sec": 3.1}
+{"phase": "es", "it": 449, "mean": 307.7, "max": 412.1, "sec": 3.1}
+{"phase": "es", "it": 450, "mean": 342.3, "max": 377.5, "sec": 3.2, "eval": 391.0, "km": 54.4, "inc100": 21.14, "coll": 4, "red": 2, "stop": 3, "speed": 7.32}
+{"phase": "es", "it": 451, "mean": 387.5, "max": 443.1, "sec": 3.8}
+{"phase": "es", "it": 452, "mean": 361.9, "max": 422.9, "sec": 2.0}
+{"phase": "es", "it": 453, "mean": 347.7, "max": 413.6, "sec": 1.8}
+{"phase": "es", "it": 454, "mean": 407.1, "max": 458.9, "sec": 1.8}
+{"phase": "es", "it": 455, "mean": 384.0, "max": 398.5, "sec": 1.8}
+{"phase": "es", "it": 456, "mean": 375.9, "max": 435.2, "sec": 1.9}
+{"phase": "es", "it": 457, "mean": 353.0, "max": 401.2, "sec": 1.8}
+{"phase": "es", "it": 458, "mean": 314.0, "max": 358.5, "sec": 2.0}
+{"phase": "es", "it": 459, "mean": 428.3, "max": 461.5, "sec": 1.9}
+{"phase": "es", "it": 460, "mean": 489.6, "max": 518.8, "sec": 1.8, "eval": 392.4, "km": 55.62, "inc100": 28.41, "coll": 4, "red": 3, "stop": 5, "speed": 7.54}
+{"phase": "es", "it": 461, "mean": 451.5, "max": 525.7, "sec": 1.7}
+{"phase": "es", "it": 462, "mean": 469.9, "max": 480.9, "sec": 1.6}
+{"phase": "es", "it": 463, "mean": 370.5, "max": 410.9, "sec": 1.6}
+{"phase": "es", "it": 464, "mean": 286.9, "max": 367.2, "sec": 1.6}
+{"phase": "es", "it": 465, "mean": 378.6, "max": 437.9, "sec": 1.7}
+{"phase": "es", "it": 466, "mean": 349.7, "max": 395.4, "sec": 1.7}
+{"phase": "es", "it": 467, "mean": 405.7, "max": 426.9, "sec": 1.6}
+{"phase": "es", "it": 468, "mean": 192.6, "max": 241.2, "sec": 1.7}
+{"phase": "es", "it": 469, "mean": 380.2, "max": 426.1, "sec": 1.6}
+{"phase": "es", "it": 470, "mean": 423.4, "max": 449.0, "sec": 1.9, "eval": 399.0, "km": 55.08, "inc100": 21.97, "coll": 3, "red": 2, "stop": 3, "speed": 7.36}
+{"phase": "es", "it": 471, "mean": 405.6, "max": 431.3, "sec": 2.6}
+{"phase": "es", "it": 472, "mean": 361.8, "max": 406.0, "sec": 2.1}
+{"phase": "es", "it": 473, "mean": 357.0, "max": 386.3, "sec": 2.1}
+{"phase": "es", "it": 474, "mean": 399.7, "max": 434.6, "sec": 2.1}
+{"phase": "es", "it": 475, "mean": 276.0, "max": 344.0, "sec": 2.0}
+{"phase": "es", "it": 476, "mean": 300.2, "max": 345.9, "sec": 2.1}
+{"phase": "es", "it": 477, "mean": 361.9, "max": 392.9, "sec": 2.1}
+{"phase": "es", "it": 478, "mean": 370.1, "max": 419.8, "sec": 2.2}
+{"phase": "es", "it": 479, "mean": 396.9, "max": 442.5, "sec": 2.1}
+{"phase": "es", "it": 480, "mean": 264.2, "max": 288.9, "sec": 1.8, "eval": 386.5, "km": 52.85, "inc100": 18.73, "coll": 2, "red": 0, "stop": 3, "speed": 7.08}
+{"phase": "es", "it": 481, "mean": 392.2, "max": 461.0, "sec": 2.0}
+{"phase": "es", "it": 482, "mean": 324.5, "max": 372.9, "sec": 2.0}
+{"phase": "es", "it": 483, "mean": 380.2, "max": 438.6, "sec": 2.1}
+{"phase": "es", "it": 484, "mean": 335.2, "max": 414.6, "sec": 2.0}
+{"phase": "es", "it": 485, "mean": 416.0, "max": 444.0, "sec": 2.0}
+{"phase": "es", "it": 486, "mean": 340.6, "max": 400.7, "sec": 2.1}
+{"phase": "es", "it": 487, "mean": 410.0, "max": 447.9, "sec": 2.1}
+{"phase": "es", "it": 488, "mean": 394.0, "max": 416.3, "sec": 2.0}
+{"phase": "es", "it": 489, "mean": 261.0, "max": 326.3, "sec": 2.2}
+{"phase": "es", "it": 490, "mean": 452.7, "max": 519.3, "sec": 2.4, "eval": 379.3, "km": 54.31, "inc100": 28.36, "coll": 6, "red": 2, "stop": 5, "speed": 7.41}
+{"phase": "es", "it": 491, "mean": 455.0, "max": 474.6, "sec": 2.1}
+{"phase": "es", "it": 492, "mean": 302.6, "max": 350.6, "sec": 2.2}
+{"phase": "es", "it": 493, "mean": 438.3, "max": 462.3, "sec": 2.2}
+{"phase": "es", "it": 494, "mean": 404.1, "max": 440.2, "sec": 2.2}
+{"phase": "es", "it": 495, "mean": 365.0, "max": 427.3, "sec": 2.0}
+{"phase": "es", "it": 496, "mean": 344.9, "max": 419.2, "sec": 2.0}
+{"phase": "es", "it": 497, "mean": 299.8, "max": 353.2, "sec": 2.0}
+{"phase": "es", "it": 498, "mean": 316.2, "max": 376.5, "sec": 1.8}
+{"phase": "es", "it": 499, "mean": 318.9, "max": 394.1, "sec": 1.7}
+{"phase": "es", "it": 500, "mean": 301.5, "max": 317.5, "sec": 1.7, "eval": 379.7, "km": 53.95, "inc100": 29.84, "coll": 3, "red": 2, "stop": 6, "speed": 7.34}
+{"phase": "es", "it": 501, "mean": 353.8, "max": 409.9, "sec": 1.7}
+{"phase": "es", "it": 502, "mean": 347.8, "max": 406.0, "sec": 1.8}
+{"phase": "es", "it": 503, "mean": 415.8, "max": 430.1, "sec": 1.8}
+{"phase": "es", "it": 504, "mean": 481.9, "max": 506.1, "sec": 1.7}
+{"phase": "es", "it": 505, "mean": 383.6, "max": 405.6, "sec": 1.6}
+{"phase": "es", "it": 506, "mean": 256.0, "max": 278.1, "sec": 1.7}
+{"phase": "es", "it": 507, "mean": 298.2, "max": 369.4, "sec": 1.8}
+{"phase": "es", "it": 508, "mean": 324.9, "max": 400.7, "sec": 1.8}
+{"phase": "es", "it": 509, "mean": 301.2, "max": 402.3, "sec": 2.3}
+{"phase": "es", "it": 510, "mean": 360.6, "max": 383.9, "sec": 2.5, "eval": 381.5, "km": 54.7, "inc100": 29.8, "coll": 5, "red": 2, "stop": 5, "speed": 7.42}
+{"phase": "es", "it": 511, "mean": 360.1, "max": 456.9, "sec": 1.9}
+{"phase": "es", "it": 512, "mean": 320.8, "max": 388.8, "sec": 1.9}
+{"phase": "es", "it": 513, "mean": 312.2, "max": 398.7, "sec": 1.9}
+{"phase": "es", "it": 514, "mean": 352.8, "max": 395.7, "sec": 2.3}
+{"phase": "es", "it": 515, "mean": 323.6, "max": 386.2, "sec": 2.1}
+{"phase": "es", "it": 516, "mean": 445.8, "max": 453.5, "sec": 1.9}
+{"phase": "es", "it": 517, "mean": 416.6, "max": 449.6, "sec": 2.1}
+{"phase": "es", "it": 518, "mean": 328.4, "max": 406.7, "sec": 2.4}
+{"phase": "es", "it": 519, "mean": 332.9, "max": 349.2, "sec": 2.0}
+{"phase": "es", "it": 520, "mean": 395.7, "max": 462.9, "sec": 1.9, "eval": 362.0, "km": 52.5, "inc100": 29.14, "coll": 7, "red": 2, "stop": 3, "speed": 7.15}
+{"phase": "es", "it": 521, "mean": 387.1, "max": 402.3, "sec": 2.3}
+{"phase": "es", "it": 522, "mean": 253.9, "max": 304.1, "sec": 2.1}
+{"phase": "es", "it": 523, "mean": 364.4, "max": 391.9, "sec": 2.2}
+{"phase": "es", "it": 524, "mean": 391.8, "max": 455.7, "sec": 1.9}
+{"phase": "es", "it": 525, "mean": 350.2, "max": 426.4, "sec": 1.9}
+{"phase": "es", "it": 526, "mean": 349.5, "max": 360.7, "sec": 2.1}
+{"phase": "es", "it": 527, "mean": 395.9, "max": 419.9, "sec": 1.9}
+{"phase": "es", "it": 528, "mean": 340.8, "max": 403.1, "sec": 2.0}
+{"phase": "es", "it": 529, "mean": 333.5, "max": 372.1, "sec": 1.9}
+{"phase": "es", "it": 530, "mean": 277.5, "max": 350.4, "sec": 2.3, "eval": 382.1, "km": 55.73, "inc100": 36.07, "coll": 6, "red": 3, "stop": 7, "speed": 7.56}
+{"phase": "es", "it": 531, "mean": 363.8, "max": 395.8, "sec": 2.0}
+{"phase": "es", "it": 532, "mean": 373.4, "max": 414.2, "sec": 2.1}
+{"phase": "es", "it": 533, "mean": 337.1, "max": 409.9, "sec": 2.1}
+{"phase": "es", "it": 534, "mean": 317.4, "max": 355.7, "sec": 2.1}
+{"phase": "es", "it": 535, "mean": 295.0, "max": 331.7, "sec": 2.0}
+{"phase": "es", "it": 536, "mean": 321.3, "max": 361.5, "sec": 2.0}
+{"phase": "es", "it": 537, "mean": 310.8, "max": 359.0, "sec": 2.1}
+{"phase": "es", "it": 538, "mean": 398.2, "max": 447.1, "sec": 2.0}
+{"phase": "es", "it": 539, "mean": 376.7, "max": 412.3, "sec": 1.9}
+{"phase": "es", "it": 540, "mean": 318.6, "max": 356.6, "sec": 1.8, "eval": 362.1, "km": 54.5, "inc100": 41.47, "coll": 8, "red": 3, "stop": 7, "speed": 7.49}
+{"phase": "es", "it": 541, "mean": 282.1, "max": 334.7, "sec": 2.6}
+{"phase": "es", "it": 542, "mean": 372.1, "max": 407.8, "sec": 2.1}
+{"phase": "es", "it": 543, "mean": 340.6, "max": 368.9, "sec": 1.9}
+{"phase": "es", "it": 544, "mean": 302.3, "max": 365.2, "sec": 1.9}
+{"phase": "es", "it": 545, "mean": 360.6, "max": 411.3, "sec": 2.2}
+{"phase": "es", "it": 546, "mean": 448.2, "max": 463.2, "sec": 1.9}
+{"phase": "es", "it": 547, "mean": 361.2, "max": 415.7, "sec": 2.1}
+{"phase": "es", "it": 548, "mean": 448.3, "max": 497.3, "sec": 2.0}
+{"phase": "es", "it": 549, "mean": 411.0, "max": 446.3, "sec": 2.0}
+{"phase": "es", "it": 550, "mean": 208.1, "max": 248.1, "sec": 2.0, "eval": 358.1, "km": 55.17, "inc100": 50.57, "coll": 7, "red": 4, "stop": 9, "speed": 7.64}
+{"phase": "es", "it": 551, "mean": 274.8, "max": 358.7, "sec": 2.1}
+{"phase": "es", "it": 552, "mean": 398.3, "max": 415.0, "sec": 2.3}
+{"phase": "es", "it": 553, "mean": 493.7, "max": 507.1, "sec": 2.4}
+{"phase": "es", "it": 554, "mean": 360.8, "max": 384.6, "sec": 2.6}
+{"phase": "es", "it": 555, "mean": 298.3, "max": 383.0, "sec": 2.3}
+{"phase": "es", "it": 556, "mean": 246.2, "max": 346.5, "sec": 2.4}
+{"phase": "es", "it": 557, "mean": 266.6, "max": 312.4, "sec": 2.3}
+{"phase": "es", "it": 558, "mean": 352.9, "max": 382.6, "sec": 2.4}
+{"phase": "es", "it": 559, "mean": 371.2, "max": 400.8, "sec": 2.3}
+{"phase": "es", "it": 560, "mean": 365.7, "max": 458.3, "sec": 2.3, "eval": 355.4, "km": 55.16, "inc100": 51.85, "coll": 8, "red": 4, "stop": 10, "speed": 7.67}
+{"phase": "es", "it": 561, "mean": 327.0, "max": 359.0, "sec": 2.4}
+{"phase": "es", "it": 562, "mean": 305.8, "max": 380.5, "sec": 2.4}
+{"phase": "es", "it": 563, "mean": 361.4, "max": 427.2, "sec": 2.3}
+{"phase": "es", "it": 564, "mean": 302.5, "max": 321.5, "sec": 2.4}
+{"phase": "es", "it": 565, "mean": 338.4, "max": 403.1, "sec": 2.4}
+{"phase": "es", "it": 566, "mean": 337.4, "max": 382.4, "sec": 2.4}
+{"phase": "es", "it": 567, "mean": 371.4, "max": 404.9, "sec": 2.2}
+{"phase": "es", "it": 568, "mean": 344.5, "max": 392.7, "sec": 2.7}
+{"phase": "es", "it": 569, "mean": 366.1, "max": 429.4, "sec": 2.6}
+{"phase": "es", "it": 570, "mean": 330.2, "max": 371.7, "sec": 2.5, "eval": 379.1, "km": 54.89, "inc100": 35.34, "coll": 4, "red": 4, "stop": 9, "speed": 7.32}
+{"phase": "es", "it": 571, "mean": 353.2, "max": 406.6, "sec": 2.4}
+{"phase": "es", "it": 572, "mean": 347.6, "max": 390.9, "sec": 2.6}
+{"phase": "es", "it": 573, "mean": 376.2, "max": 409.9, "sec": 2.5}
+{"phase": "es", "it": 574, "mean": 414.7, "max": 470.2, "sec": 2.5}
+{"phase": "es", "it": 575, "mean": 289.1, "max": 360.9, "sec": 2.5}
+{"phase": "es", "it": 576, "mean": 373.7, "max": 397.6, "sec": 2.4}
+{"phase": "es", "it": 577, "mean": 337.0, "max": 378.6, "sec": 2.5}
+{"phase": "es", "it": 578, "mean": 377.9, "max": 427.7, "sec": 2.5}
+{"phase": "es", "it": 579, "mean": 325.2, "max": 377.1, "sec": 2.3}
+{"phase": "es", "it": 580, "mean": 410.4, "max": 427.2, "sec": 2.4, "eval": 371.0, "km": 53.01, "inc100": 27.35, "coll": 5, "red": 1, "stop": 6, "speed": 7.05}
+{"phase": "es", "it": 581, "mean": 309.4, "max": 345.4, "sec": 2.2}
+{"phase": "es", "it": 582, "mean": 393.0, "max": 409.0, "sec": 2.3}
+{"phase": "es", "it": 583, "mean": 274.1, "max": 298.5, "sec": 2.4}
+{"phase": "es", "it": 584, "mean": 402.5, "max": 423.0, "sec": 2.2}
+{"phase": "es", "it": 585, "mean": 451.8, "max": 506.5, "sec": 3.1}
+{"phase": "es", "it": 586, "mean": 351.6, "max": 396.0, "sec": 3.6}
+{"phase": "es", "it": 587, "mean": 383.8, "max": 434.2, "sec": 2.7}
+{"phase": "es", "it": 588, "mean": 288.4, "max": 327.4, "sec": 3.7}
+{"phase": "es", "it": 589, "mean": 393.0, "max": 450.0, "sec": 3.1}
+{"phase": "es", "it": 590, "mean": 308.1, "max": 374.2, "sec": 3.4, "eval": 347.1, "km": 55.39, "inc100": 56.86, "coll": 11, "red": 4, "stop": 10, "speed": 7.68}
+{"phase": "es", "it": 591, "mean": 376.5, "max": 392.6, "sec": 5.1}
+{"phase": "es", "it": 592, "mean": 365.1, "max": 385.3, "sec": 5.6}
+{"phase": "es", "it": 593, "mean": 269.6, "max": 343.9, "sec": 5.2}
+{"phase": "es", "it": 594, "mean": 370.4, "max": 404.0, "sec": 4.9}
+{"phase": "es", "it": 595, "mean": 358.4, "max": 434.5, "sec": 5.2}
+{"phase": "es", "it": 596, "mean": 306.6, "max": 421.5, "sec": 5.7}
+{"phase": "es", "it": 597, "mean": 309.1, "max": 444.4, "sec": 5.7}
+{"phase": "es", "it": 598, "mean": 338.2, "max": 402.9, "sec": 5.8}
+{"phase": "es", "it": 599, "mean": 372.0, "max": 464.9, "sec": 6.1}
+{"phase": "es", "it": 600, "mean": 361.6, "max": 413.2, "sec": 5.5, "eval": 338.8, "km": 54.26, "inc100": 58.43, "coll": 9, "red": 4, "stop": 9, "speed": 7.62}
+{"phase": "es", "it": 601, "mean": 408.7, "max": 427.9, "sec": 4.9}
+{"phase": "es", "it": 602, "mean": 368.7, "max": 409.6, "sec": 4.6}
+{"phase": "es", "it": 603, "mean": 289.2, "max": 383.7, "sec": 4.7}
+{"phase": "es", "it": 604, "mean": 413.0, "max": 454.2, "sec": 6.0}
+{"phase": "es", "it": 605, "mean": 402.4, "max": 440.1, "sec": 5.0}
+{"phase": "es", "it": 606, "mean": 445.5, "max": 512.2, "sec": 4.9}
+{"phase": "es", "it": 607, "mean": 403.6, "max": 478.6, "sec": 5.0}
+{"phase": "es", "it": 608, "mean": 359.4, "max": 426.3, "sec": 5.7}
+{"phase": "es", "it": 609, "mean": 339.3, "max": 365.1, "sec": 5.0}
+{"phase": "es", "it": 610, "mean": 273.0, "max": 310.3, "sec": 5.0, "eval": 376.7, "km": 54.29, "inc100": 37.21, "coll": 2, "red": 1, "stop": 10, "speed": 7.39}
+{"phase": "es", "it": 611, "mean": 307.1, "max": 417.6, "sec": 5.6}
+{"phase": "es", "it": 612, "mean": 376.7, "max": 402.6, "sec": 6.1}
+{"phase": "es", "it": 613, "mean": 398.4, "max": 452.0, "sec": 5.6}
+{"phase": "es", "it": 614, "mean": 375.3, "max": 410.8, "sec": 5.6}
+{"phase": "es", "it": 615, "mean": 312.4, "max": 352.7, "sec": 5.6}
+{"phase": "es", "it": 616, "mean": 423.4, "max": 467.0, "sec": 5.2}
+{"phase": "es", "it": 617, "mean": 348.6, "max": 386.5, "sec": 5.5}
+{"phase": "es", "it": 618, "mean": 446.6, "max": 469.2, "sec": 5.0}
+{"phase": "es", "it": 619, "mean": 415.6, "max": 440.5, "sec": 4.8}
+{"phase": "es", "it": 620, "mean": 383.0, "max": 420.4, "sec": 4.9, "eval": 359.8, "km": 54.55, "inc100": 46.38, "coll": 7, "red": 4, "stop": 8, "speed": 7.52}
+{"phase": "es", "it": 621, "mean": 373.4, "max": 418.2, "sec": 5.1}
+{"phase": "es", "it": 622, "mean": 410.0, "max": 451.8, "sec": 5.7}
+{"phase": "es", "it": 623, "mean": 362.6, "max": 444.6, "sec": 6.1}
+{"phase": "es", "it": 624, "mean": 325.5, "max": 354.0, "sec": 5.9}
+{"phase": "es", "it": 625, "mean": 314.5, "max": 401.0, "sec": 6.1}
+{"phase": "es", "it": 626, "mean": 366.4, "max": 416.0, "sec": 6.1}
+{"phase": "es", "it": 627, "mean": 279.2, "max": 345.8, "sec": 6.3}
+{"phase": "es", "it": 628, "mean": 413.8, "max": 486.9, "sec": 6.5}
+{"phase": "es", "it": 629, "mean": 311.7, "max": 332.2, "sec": 5.6}
+{"phase": "es", "it": 630, "mean": 271.1, "max": 351.0, "sec": 5.0, "eval": 341.4, "km": 54.29, "inc100": 59.13, "coll": 8, "red": 6, "stop": 10, "speed": 7.61}
+{"phase": "es", "it": 631, "mean": 323.2, "max": 391.7, "sec": 4.8}
+{"phase": "es", "it": 632, "mean": 394.4, "max": 405.6, "sec": 5.7}
+{"phase": "es", "it": 633, "mean": 404.6, "max": 462.4, "sec": 6.5}
+{"phase": "es", "it": 634, "mean": 438.7, "max": 479.5, "sec": 6.5}
+{"phase": "es", "it": 635, "mean": 349.5, "max": 434.6, "sec": 6.7}
+{"phase": "es", "it": 636, "mean": 333.4, "max": 368.9, "sec": 7.2}
+{"phase": "es", "it": 637, "mean": 310.8, "max": 388.1, "sec": 6.1}
+{"phase": "es", "it": 638, "mean": 293.7, "max": 375.2, "sec": 5.7}
+{"phase": "es", "it": 639, "mean": 358.7, "max": 426.7, "sec": 7.1}
+{"phase": "es", "it": 640, "mean": 320.4, "max": 397.5, "sec": 6.0, "eval": 357.0, "km": 53.5, "inc100": 42.05, "coll": 6, "red": 3, "stop": 7, "speed": 7.41}
+{"phase": "es", "it": 641, "mean": 431.7, "max": 478.9, "sec": 6.2}
+{"phase": "es", "it": 642, "mean": 346.4, "max": 404.1, "sec": 6.1}
+{"phase": "es", "it": 643, "mean": 294.2, "max": 365.7, "sec": 4.3}
+{"phase": "es", "it": 644, "mean": 351.4, "max": 398.0, "sec": 6.3}
+{"phase": "es", "it": 645, "mean": 398.6, "max": 435.3, "sec": 4.8}
+{"phase": "es", "it": 646, "mean": 347.0, "max": 362.4, "sec": 3.7}
+{"phase": "es", "it": 647, "mean": 404.6, "max": 451.3, "sec": 3.7}
+{"phase": "es", "it": 648, "mean": 357.3, "max": 403.8, "sec": 2.8}
+{"phase": "es", "it": 649, "mean": 433.8, "max": 487.5, "sec": 2.3}
+{"phase": "es", "it": 650, "mean": 351.2, "max": 400.9, "sec": 2.6, "eval": 370.0, "km": 53.9, "inc100": 36.36, "coll": 5, "red": 1, "stop": 7, "speed": 7.35}
+{"phase": "es", "it": 651, "mean": 317.4, "max": 374.2, "sec": 2.2}
+{"phase": "es", "it": 652, "mean": 375.1, "max": 438.5, "sec": 2.2}
+{"phase": "es", "it": 653, "mean": 343.1, "max": 394.3, "sec": 1.9}
+{"phase": "es", "it": 654, "mean": 356.2, "max": 402.7, "sec": 2.1}
+{"phase": "es", "it": 655, "mean": 347.2, "max": 378.5, "sec": 2.5}
+{"phase": "es", "it": 656, "mean": 419.0, "max": 453.1, "sec": 1.7}
+{"phase": "es", "it": 657, "mean": 333.4, "max": 405.0, "sec": 1.7}
+{"phase": "es", "it": 658, "mean": 379.0, "max": 410.9, "sec": 1.8}
+{"phase": "es", "it": 659, "mean": 330.6, "max": 365.6, "sec": 1.8}
+{"phase": "es", "it": 660, "mean": 325.4, "max": 370.8, "sec": 1.7, "eval": 357.5, "km": 55.05, "inc100": 54.49, "coll": 8, "red": 4, "stop": 8, "speed": 7.55}
+{"phase": "es", "it": 661, "mean": 389.1, "max": 405.9, "sec": 2.0}
+{"phase": "es", "it": 662, "mean": 383.2, "max": 396.8, "sec": 2.2}
+{"phase": "es", "it": 663, "mean": 357.6, "max": 415.9, "sec": 1.8}
+{"phase": "es", "it": 664, "mean": 324.8, "max": 378.5, "sec": 1.8}
+{"phase": "es", "it": 665, "mean": 392.3, "max": 464.1, "sec": 1.8}
+{"phase": "es", "it": 666, "mean": 278.3, "max": 327.9, "sec": 1.9}
+{"phase": "es", "it": 667, "mean": 339.9, "max": 460.8, "sec": 1.9}
+{"phase": "es", "it": 668, "mean": 347.0, "max": 394.2, "sec": 1.9}
+{"phase": "es", "it": 669, "mean": 293.8, "max": 408.1, "sec": 2.2}
+{"phase": "es", "it": 670, "mean": 404.5, "max": 433.0, "sec": 1.9, "eval": 338.8, "km": 55.53, "inc100": 64.83, "coll": 12, "red": 4, "stop": 11, "speed": 7.76}
+{"phase": "es", "it": 671, "mean": 342.0, "max": 379.5, "sec": 2.6}
+{"phase": "es", "it": 672, "mean": 252.4, "max": 337.9, "sec": 2.1}
+{"phase": "es", "it": 673, "mean": 458.4, "max": 499.9, "sec": 1.9}
+{"phase": "es", "it": 674, "mean": 362.2, "max": 381.7, "sec": 2.0}
+{"phase": "es", "it": 675, "mean": 354.2, "max": 445.1, "sec": 2.0}
+{"phase": "es", "it": 676, "mean": 340.6, "max": 407.6, "sec": 1.9}
+{"phase": "es", "it": 677, "mean": 422.1, "max": 449.2, "sec": 1.9}
+{"phase": "es", "it": 678, "mean": 240.1, "max": 298.3, "sec": 1.9}
+{"phase": "es", "it": 679, "mean": 327.2, "max": 359.2, "sec": 1.8}
+{"phase": "es", "it": 680, "mean": 329.5, "max": 382.0, "sec": 1.8, "eval": 355.8, "km": 54.7, "inc100": 51.74, "coll": 8, "red": 3, "stop": 9, "speed": 7.56}
+{"phase": "es", "it": 681, "mean": 344.7, "max": 356.3, "sec": 2.1}
+{"phase": "es", "it": 682, "mean": 277.0, "max": 320.4, "sec": 2.3}
+{"phase": "es", "it": 683, "mean": 405.2, "max": 447.7, "sec": 1.9}
+{"phase": "es", "it": 684, "mean": 326.0, "max": 391.8, "sec": 1.8}
+{"phase": "es", "it": 685, "mean": 428.2, "max": 459.2, "sec": 1.9}
+{"phase": "es", "it": 686, "mean": 344.5, "max": 415.8, "sec": 1.8}
+{"phase": "es", "it": 687, "mean": 427.4, "max": 447.6, "sec": 1.8}
+{"phase": "es", "it": 688, "mean": 362.4, "max": 432.7, "sec": 1.9}
+{"phase": "es", "it": 689, "mean": 330.9, "max": 365.4, "sec": 1.9}
+{"phase": "es", "it": 690, "mean": 384.1, "max": 427.5, "sec": 2.1, "eval": 369.1, "km": 53.99, "inc100": 36.67, "coll": 6, "red": 1, "stop": 7, "speed": 7.37}
+{"phase": "es", "it": 691, "mean": 458.5, "max": 490.8, "sec": 1.9}
+{"phase": "es", "it": 692, "mean": 379.2, "max": 403.1, "sec": 1.8}
+{"phase": "es", "it": 693, "mean": 274.8, "max": 314.1, "sec": 1.9}
+{"phase": "es", "it": 694, "mean": 245.5, "max": 329.9, "sec": 2.0}
+{"phase": "es", "it": 695, "mean": 312.0, "max": 362.0, "sec": 2.2}
+{"phase": "es", "it": 696, "mean": 251.0, "max": 302.3, "sec": 1.8}
+{"phase": "es", "it": 697, "mean": 357.2, "max": 480.2, "sec": 1.9}
+{"phase": "es", "it": 698, "mean": 296.2, "max": 373.0, "sec": 1.9}
+{"phase": "es", "it": 699, "mean": 276.4, "max": 327.5, "sec": 1.9}
+{"phase": "es", "it": 700, "mean": 418.2, "max": 458.1, "sec": 1.9, "eval": 378.4, "km": 53.01, "inc100": 32.63, "coll": 1, "red": 2, "stop": 10, "speed": 7.05}
+{"phase": "es", "it": 701, "mean": 370.5, "max": 422.8, "sec": 1.8}
+{"phase": "es", "it": 702, "mean": 278.7, "max": 319.1, "sec": 1.9}
+{"phase": "es", "it": 703, "mean": 414.4, "max": 441.4, "sec": 1.8}
+{"phase": "es", "it": 704, "mean": 388.1, "max": 411.0, "sec": 1.8}
+{"phase": "es", "it": 705, "mean": 393.9, "max": 435.4, "sec": 1.8}
+{"phase": "es", "it": 706, "mean": 360.7, "max": 415.2, "sec": 1.8}
+{"phase": "es", "it": 707, "mean": 342.9, "max": 395.8, "sec": 1.8}
+{"phase": "es", "it": 708, "mean": 436.2, "max": 446.2, "sec": 1.8}
+{"phase": "es", "it": 709, "mean": 307.7, "max": 424.2, "sec": 1.8}
+{"phase": "es", "it": 710, "mean": 339.0, "max": 393.0, "sec": 1.8, "eval": 359.0, "km": 52.98, "inc100": 40.4, "coll": 5, "red": 2, "stop": 9, "speed": 7.21}
+{"phase": "es", "it": 711, "mean": 429.5, "max": 468.6, "sec": 1.8}
+{"phase": "es", "it": 712, "mean": 430.5, "max": 464.9, "sec": 1.9}
+{"phase": "es", "it": 713, "mean": 332.2, "max": 385.3, "sec": 1.9}
+{"phase": "es", "it": 714, "mean": 274.2, "max": 344.4, "sec": 1.9}
+{"phase": "es", "it": 715, "mean": 428.5, "max": 449.6, "sec": 1.9}
+{"phase": "es", "it": 716, "mean": 249.2, "max": 339.4, "sec": 1.9}
+{"phase": "es", "it": 717, "mean": 421.7, "max": 435.6, "sec": 1.8}
+{"phase": "es", "it": 718, "mean": 287.7, "max": 362.8, "sec": 1.9}
+{"phase": "es", "it": 719, "mean": 375.8, "max": 380.4, "sec": 1.9}
+{"phase": "es", "it": 720, "mean": 495.2, "max": 523.7, "sec": 1.9, "eval": 355.1, "km": 55.53, "inc100": 53.84, "coll": 9, "red": 4, "stop": 11, "speed": 7.7}
+{"phase": "es", "it": 721, "mean": 407.7, "max": 442.0, "sec": 1.9}
+{"phase": "es", "it": 722, "mean": 365.6, "max": 462.7, "sec": 2.0}
+{"phase": "es", "it": 723, "mean": 326.4, "max": 389.3, "sec": 1.8}
+{"phase": "es", "it": 724, "mean": 329.8, "max": 383.0, "sec": 1.8}
+{"phase": "es", "it": 725, "mean": 312.0, "max": 395.7, "sec": 1.8}
+{"phase": "es", "it": 726, "mean": 364.7, "max": 399.4, "sec": 1.9}
+{"phase": "es", "it": 727, "mean": 292.1, "max": 356.5, "sec": 1.8}
+{"phase": "es", "it": 728, "mean": 336.5, "max": 404.8, "sec": 1.9}
+{"phase": "es", "it": 729, "mean": 288.4, "max": 363.8, "sec": 1.9}
+{"phase": "es", "it": 730, "mean": 299.6, "max": 382.4, "sec": 1.9, "eval": 342.1, "km": 55.56, "inc100": 60.65, "coll": 12, "red": 4, "stop": 9, "speed": 7.86}
+{"phase": "es", "it": 731, "mean": 383.4, "max": 432.1, "sec": 1.8}
+{"phase": "es", "it": 732, "mean": 323.7, "max": 356.3, "sec": 1.8}
+{"phase": "es", "it": 733, "mean": 451.6, "max": 503.3, "sec": 1.8}
+{"phase": "es", "it": 734, "mean": 406.6, "max": 474.1, "sec": 1.8}
+{"phase": "es", "it": 735, "mean": 243.1, "max": 365.0, "sec": 1.8}
+{"phase": "es", "it": 736, "mean": 341.2, "max": 405.5, "sec": 1.7}
+{"phase": "es", "it": 737, "mean": 307.2, "max": 348.3, "sec": 1.7}
+{"phase": "es", "it": 738, "mean": 355.0, "max": 393.5, "sec": 1.8}
+{"phase": "es", "it": 739, "mean": 343.7, "max": 353.6, "sec": 1.7}
+{"phase": "es", "it": 740, "mean": 348.5, "max": 450.8, "sec": 1.8, "eval": 367.2, "km": 55.06, "inc100": 46.86, "coll": 6, "red": 4, "stop": 9, "speed": 7.59}
+{"phase": "es", "it": 741, "mean": 283.8, "max": 369.7, "sec": 1.8}
+{"phase": "es", "it": 742, "mean": 393.8, "max": 402.2, "sec": 1.8}
+{"phase": "es", "it": 743, "mean": 385.4, "max": 434.1, "sec": 2.0}
+{"phase": "es", "it": 744, "mean": 309.9, "max": 385.0, "sec": 1.8}
+{"phase": "es", "it": 745, "mean": 294.0, "max": 375.6, "sec": 1.7}
+{"phase": "es", "it": 746, "mean": 269.7, "max": 342.7, "sec": 1.8}
+{"phase": "es", "it": 747, "mean": 435.6, "max": 459.1, "sec": 1.6}
+{"phase": "es", "it": 748, "mean": 368.0, "max": 409.1, "sec": 1.5}
+{"phase": "es", "it": 749, "mean": 423.6, "max": 446.1, "sec": 1.5}
+{"phase": "es", "it": 750, "mean": 393.8, "max": 449.2, "sec": 1.5, "eval": 375.4, "km": 54.28, "inc100": 37.21, "coll": 3, "red": 2, "stop": 9, "speed": 7.4}
+{"phase": "es", "it": 751, "mean": 379.5, "max": 435.4, "sec": 1.6}
+{"phase": "es", "it": 752, "mean": 409.8, "max": 431.6, "sec": 1.6}
+{"phase": "es", "it": 753, "mean": 397.2, "max": 442.4, "sec": 1.7}
+{"phase": "es", "it": 754, "mean": 266.1, "max": 298.2, "sec": 1.8}
+{"phase": "es", "it": 755, "mean": 316.3, "max": 369.0, "sec": 1.7}
+{"phase": "es", "it": 756, "mean": 311.2, "max": 356.5, "sec": 1.7}
+{"phase": "es", "it": 757, "mean": 295.1, "max": 362.1, "sec": 1.7}
+{"phase": "es", "it": 758, "mean": 320.0, "max": 360.9, "sec": 1.6}
+{"phase": "es", "it": 759, "mean": 335.4, "max": 389.2, "sec": 1.7}
+{"phase": "es", "it": 760, "mean": 393.4, "max": 420.4, "sec": 1.8, "eval": 361.5, "km": 53.05, "inc100": 36.57, "coll": 6, "red": 0, "stop": 7, "speed": 7.26}
+{"phase": "es", "it": 761, "mean": 209.9, "max": 328.0, "sec": 1.7}
+{"phase": "es", "it": 762, "mean": 345.0, "max": 365.2, "sec": 1.8}
+{"phase": "es", "it": 763, "mean": 380.5, "max": 410.9, "sec": 1.8}
+{"phase": "es", "it": 764, "mean": 334.1, "max": 413.9, "sec": 1.7}
+{"phase": "es", "it": 765, "mean": 308.6, "max": 376.1, "sec": 1.7}
+{"phase": "es", "it": 766, "mean": 333.5, "max": 381.6, "sec": 1.7}
+{"phase": "es", "it": 767, "mean": 277.1, "max": 358.3, "sec": 1.7}
+{"phase": "es", "it": 768, "mean": 367.8, "max": 424.8, "sec": 1.7}
+{"phase": "es", "it": 769, "mean": 293.0, "max": 330.6, "sec": 1.7}
+{"phase": "es", "it": 770, "mean": 369.5, "max": 428.1, "sec": 1.7, "eval": 371.1, "km": 52.69, "inc100": 29.42, "coll": 4, "red": 0, "stop": 7, "speed": 7.14}
+{"phase": "es", "it": 771, "mean": 284.1, "max": 365.4, "sec": 1.5}
+{"phase": "es", "it": 772, "mean": 443.3, "max": 477.5, "sec": 1.5}
+{"phase": "es", "it": 773, "mean": 413.0, "max": 461.7, "sec": 1.5}
+{"phase": "es", "it": 774, "mean": 312.1, "max": 384.6, "sec": 1.6}
+{"phase": "es", "it": 775, "mean": 269.9, "max": 307.1, "sec": 1.7}
+{"phase": "es", "it": 776, "mean": 366.0, "max": 422.8, "sec": 2.0}
+{"phase": "es", "it": 777, "mean": 333.5, "max": 358.6, "sec": 2.1}
+{"phase": "es", "it": 778, "mean": 431.5, "max": 508.9, "sec": 1.8}
+{"phase": "es", "it": 779, "mean": 286.9, "max": 388.3, "sec": 1.7}
+{"phase": "es", "it": 780, "mean": 334.6, "max": 380.5, "sec": 1.6, "eval": 354.3, "km": 52.22, "inc100": 40.6, "coll": 4, "red": 0, "stop": 8, "speed": 7.18}
+{"phase": "es", "it": 781, "mean": 389.5, "max": 430.6, "sec": 1.7}
+{"phase": "es", "it": 782, "mean": 291.0, "max": 368.2, "sec": 1.6}
+{"phase": "es", "it": 783, "mean": 367.9, "max": 447.5, "sec": 1.6}
+{"phase": "es", "it": 784, "mean": 265.6, "max": 344.1, "sec": 1.6}
+{"phase": "es", "it": 785, "mean": 360.7, "max": 401.8, "sec": 1.6}
+{"phase": "es", "it": 786, "mean": 348.3, "max": 395.0, "sec": 1.7}
+{"phase": "es", "it": 787, "mean": 286.2, "max": 347.0, "sec": 1.7}
+{"phase": "es", "it": 788, "mean": 410.6, "max": 429.9, "sec": 1.8}
+{"phase": "es", "it": 789, "mean": 250.2, "max": 332.2, "sec": 1.9}
+{"phase": "es", "it": 790, "mean": 356.0, "max": 374.1, "sec": 1.7, "eval": 338.9, "km": 53.28, "inc100": 56.3, "coll": 8, "red": 2, "stop": 10, "speed": 7.42}
+{"phase": "es", "it": 791, "mean": 332.8, "max": 379.1, "sec": 1.7}
+{"phase": "es", "it": 792, "mean": 326.1, "max": 385.7, "sec": 1.7}
+{"phase": "es", "it": 793, "mean": 296.6, "max": 310.5, "sec": 1.9}
+{"phase": "es", "it": 794, "mean": 275.6, "max": 340.2, "sec": 1.8}
+{"phase": "es", "it": 795, "mean": 354.4, "max": 383.5, "sec": 1.9}
+{"phase": "es", "it": 796, "mean": 296.7, "max": 398.1, "sec": 1.8}
+{"phase": "es", "it": 797, "mean": 402.2, "max": 429.5, "sec": 1.8}
+{"phase": "es", "it": 798, "mean": 366.5, "max": 411.6, "sec": 1.8}
+{"phase": "es", "it": 799, "mean": 326.6, "max": 393.5, "sec": 1.8}
+{"phase": "es", "it": 800, "mean": 301.9, "max": 366.7, "sec": 1.7, "eval": 332.0, "km": 53.38, "inc100": 55.64, "coll": 12, "red": 2, "stop": 9, "speed": 7.51}
+{"phase": "es", "it": 801, "mean": 362.1, "max": 399.3, "sec": 1.7}
+{"phase": "es", "it": 802, "mean": 317.7, "max": 371.2, "sec": 1.7}
+{"phase": "es", "it": 803, "mean": 341.6, "max": 390.0, "sec": 1.7}
+{"phase": "es", "it": 804, "mean": 382.7, "max": 446.9, "sec": 1.7}
+{"phase": "es", "it": 805, "mean": 367.5, "max": 438.0, "sec": 1.7}
+{"phase": "es", "it": 806, "mean": 369.4, "max": 405.9, "sec": 1.7}
+{"phase": "es", "it": 807, "mean": 261.1, "max": 319.1, "sec": 1.8}
+{"phase": "es", "it": 808, "mean": 240.8, "max": 297.0, "sec": 1.7}
+{"phase": "es", "it": 809, "mean": 332.8, "max": 386.0, "sec": 1.8}
+{"phase": "es", "it": 810, "mean": 371.6, "max": 428.9, "sec": 2.0, "eval": 339.0, "km": 52.81, "inc100": 50.37, "coll": 9, "red": 1, "stop": 8, "speed": 7.35}
+{"phase": "es", "it": 811, "mean": 268.1, "max": 361.2, "sec": 1.8}
+{"phase": "es", "it": 812, "mean": 299.3, "max": 338.0, "sec": 1.8}
+{"phase": "es", "it": 813, "mean": 267.9, "max": 336.1, "sec": 1.9}
+{"phase": "es", "it": 814, "mean": 345.3, "max": 376.5, "sec": 2.0}
+{"phase": "es", "it": 815, "mean": 434.2, "max": 468.1, "sec": 1.9}
+{"phase": "es", "it": 816, "mean": 385.5, "max": 427.6, "sec": 1.8}
+{"phase": "es", "it": 817, "mean": 337.6, "max": 393.7, "sec": 1.8}
+{"phase": "es", "it": 818, "mean": 275.2, "max": 333.5, "sec": 1.7}
+{"phase": "es", "it": 819, "mean": 306.1, "max": 351.2, "sec": 1.7}
+{"phase": "es", "it": 820, "mean": 369.8, "max": 427.6, "sec": 2.0, "eval": 353.7, "km": 54.03, "inc100": 46.27, "coll": 9, "red": 0, "stop": 9, "speed": 7.6}
+{"phase": "es", "it": 821, "mean": 308.1, "max": 362.7, "sec": 2.6}
+{"phase": "es", "it": 822, "mean": 417.5, "max": 466.5, "sec": 1.8}
+{"phase": "es", "it": 823, "mean": 253.4, "max": 317.4, "sec": 2.2}
+{"phase": "es", "it": 824, "mean": 337.7, "max": 370.8, "sec": 2.1}
+{"phase": "es", "it": 825, "mean": 384.4, "max": 419.8, "sec": 1.9}
+{"phase": "es", "it": 826, "mean": 351.9, "max": 413.4, "sec": 2.1}
+{"phase": "es", "it": 827, "mean": 331.9, "max": 379.4, "sec": 2.5}
+{"phase": "es", "it": 828, "mean": 393.2, "max": 422.9, "sec": 2.3}
+{"phase": "es", "it": 829, "mean": 440.1, "max": 463.3, "sec": 2.4}
+{"phase": "es", "it": 830, "mean": 279.7, "max": 305.2, "sec": 2.3, "eval": 354.7, "km": 55.3, "inc100": 48.65, "coll": 12, "red": 1, "stop": 9, "speed": 7.76}
+{"phase": "es", "it": 831, "mean": 406.3, "max": 436.7, "sec": 2.2}
+{"phase": "es", "it": 832, "mean": 345.5, "max": 436.3, "sec": 2.3}
+{"phase": "es", "it": 833, "mean": 282.7, "max": 356.4, "sec": 2.3}
+{"phase": "es", "it": 834, "mean": 485.9, "max": 499.9, "sec": 2.3}
+{"phase": "es", "it": 835, "mean": 171.6, "max": 217.9, "sec": 2.4}
+{"phase": "es", "it": 836, "mean": 302.6, "max": 382.1, "sec": 2.2}
+{"phase": "es", "it": 837, "mean": 392.1, "max": 446.5, "sec": 2.4}
+{"phase": "es", "it": 838, "mean": 364.1, "max": 423.4, "sec": 2.3}
+{"phase": "es", "it": 839, "mean": 373.5, "max": 424.3, "sec": 2.2}
+{"phase": "es", "it": 840, "mean": 315.7, "max": 400.5, "sec": 2.1, "eval": 367.7, "km": 55.48, "inc100": 42.54, "coll": 9, "red": 2, "stop": 9, "speed": 7.7}
+{"phase": "es", "it": 841, "mean": 366.8, "max": 432.7, "sec": 2.2}
+{"phase": "es", "it": 842, "mean": 379.3, "max": 395.6, "sec": 2.3}
+{"phase": "es", "it": 843, "mean": 400.9, "max": 437.8, "sec": 2.1}
+{"phase": "es", "it": 844, "mean": 366.7, "max": 408.6, "sec": 2.2}
+{"phase": "es", "it": 845, "mean": 441.0, "max": 455.9, "sec": 2.2}
+{"phase": "es", "it": 846, "mean": 375.1, "max": 441.0, "sec": 2.3}
+{"phase": "es", "it": 847, "mean": 325.9, "max": 394.2, "sec": 2.4}
+{"phase": "es", "it": 848, "mean": 405.7, "max": 432.4, "sec": 2.3}
+{"phase": "es", "it": 849, "mean": 393.9, "max": 415.4, "sec": 2.3}
+{"phase": "es", "it": 850, "mean": 340.6, "max": 410.9, "sec": 2.3, "eval": 361.7, "km": 53.96, "inc100": 41.7, "coll": 6, "red": 1, "stop": 8, "speed": 7.45}
+{"phase": "es", "it": 851, "mean": 314.7, "max": 335.9, "sec": 2.3}
+{"phase": "es", "it": 852, "mean": 363.6, "max": 409.2, "sec": 2.2}
+{"phase": "es", "it": 853, "mean": 390.1, "max": 414.1, "sec": 3.9}
+{"phase": "es", "it": 854, "mean": 289.3, "max": 365.6, "sec": 2.5}
+{"phase": "es", "it": 855, "mean": 356.9, "max": 403.4, "sec": 3.6}
+{"phase": "es", "it": 856, "mean": 310.1, "max": 395.8, "sec": 3.4}
+{"phase": "es", "it": 857, "mean": 373.3, "max": 416.2, "sec": 2.7}
+{"phase": "es", "it": 858, "mean": 287.5, "max": 374.7, "sec": 4.0}
+{"phase": "es", "it": 859, "mean": 258.5, "max": 306.4, "sec": 4.4}
+{"phase": "es", "it": 860, "mean": 276.4, "max": 330.8, "sec": 5.0, "eval": 378.9, "km": 53.48, "inc100": 28.05, "coll": 3, "red": 0, "stop": 8, "speed": 7.14}
+{"phase": "es", "it": 861, "mean": 292.2, "max": 320.9, "sec": 5.1}
+{"phase": "es", "it": 862, "mean": 421.2, "max": 435.4, "sec": 5.1}
+{"phase": "es", "it": 863, "mean": 353.0, "max": 417.7, "sec": 5.3}
+{"phase": "es", "it": 864, "mean": 302.8, "max": 333.6, "sec": 5.2}
+{"phase": "es", "it": 865, "mean": 350.4, "max": 400.9, "sec": 5.0}
+{"phase": "es", "it": 866, "mean": 340.2, "max": 391.0, "sec": 5.1}
+{"phase": "es", "it": 867, "mean": 340.6, "max": 381.6, "sec": 5.1}
+{"phase": "es", "it": 868, "mean": 398.0, "max": 431.3, "sec": 4.6}
+{"phase": "es", "it": 869, "mean": 302.4, "max": 327.6, "sec": 4.3}
+{"phase": "es", "it": 870, "mean": 332.1, "max": 378.5, "sec": 4.0, "eval": 359.6, "km": 53.06, "inc100": 39.58, "coll": 5, "red": 0, "stop": 9, "speed": 7.25}
+{"phase": "es", "it": 871, "mean": 330.7, "max": 379.2, "sec": 4.0}
+{"phase": "es", "it": 872, "mean": 312.4, "max": 409.9, "sec": 4.5}
+{"phase": "es", "it": 873, "mean": 412.8, "max": 449.7, "sec": 5.3}
+{"phase": "es", "it": 874, "mean": 363.6, "max": 422.8, "sec": 4.7}
+{"phase": "es", "it": 875, "mean": 273.7, "max": 319.3, "sec": 4.6}
+{"phase": "es", "it": 876, "mean": 357.4, "max": 400.3, "sec": 4.7}
+{"phase": "es", "it": 877, "mean": 448.4, "max": 497.3, "sec": 5.0}
+{"phase": "es", "it": 878, "mean": 270.8, "max": 322.3, "sec": 4.5}
+{"phase": "es", "it": 879, "mean": 356.3, "max": 458.5, "sec": 4.6}
+{"phase": "es", "it": 880, "mean": 381.7, "max": 424.4, "sec": 5.7, "eval": 377.0, "km": 53.74, "inc100": 32.75, "coll": 3, "red": 0, "stop": 9, "speed": 7.31}
+{"phase": "es", "it": 881, "mean": 383.7, "max": 413.3, "sec": 4.5}
+{"phase": "es", "it": 882, "mean": 395.1, "max": 464.1, "sec": 5.0}
+{"phase": "es", "it": 883, "mean": 369.1, "max": 418.6, "sec": 4.0}
+{"phase": "es", "it": 884, "mean": 286.1, "max": 334.1, "sec": 3.1}
+{"phase": "es", "it": 885, "mean": 374.1, "max": 428.7, "sec": 5.0}
+{"phase": "es", "it": 886, "mean": 303.7, "max": 372.5, "sec": 5.1}
+{"phase": "es", "it": 887, "mean": 339.0, "max": 397.0, "sec": 5.2}
+{"phase": "es", "it": 888, "mean": 353.3, "max": 401.6, "sec": 6.0}
+{"phase": "es", "it": 889, "mean": 419.8, "max": 447.1, "sec": 5.1}
+{"phase": "es", "it": 890, "mean": 346.9, "max": 418.0, "sec": 5.2, "eval": 376.0, "km": 53.9, "inc100": 32.47, "coll": 3, "red": 0, "stop": 8, "speed": 7.29}
+{"phase": "es", "it": 891, "mean": 427.5, "max": 466.3, "sec": 4.7}
+{"phase": "es", "it": 892, "mean": 281.7, "max": 355.3, "sec": 5.2}
+{"phase": "es", "it": 893, "mean": 342.8, "max": 407.9, "sec": 6.0}
+{"phase": "es", "it": 894, "mean": 281.8, "max": 329.2, "sec": 6.3}
+{"phase": "es", "it": 895, "mean": 318.3, "max": 385.8, "sec": 5.7}
+{"phase": "es", "it": 896, "mean": 358.8, "max": 390.9, "sec": 4.8}
+{"phase": "es", "it": 897, "mean": 347.1, "max": 395.0, "sec": 3.8}
+{"phase": "es", "it": 898, "mean": 422.3, "max": 441.7, "sec": 5.3}
+{"phase": "es", "it": 899, "mean": 362.7, "max": 396.4, "sec": 5.5}
+{"phase": "es", "it": 900, "mean": 367.8, "max": 412.1, "sec": 6.5, "eval": 376.6, "km": 54.71, "inc100": 36.01, "coll": 5, "red": 0, "stop": 10, "speed": 7.39}
+{"phase": "es", "it": 901, "mean": 267.8, "max": 383.6, "sec": 5.9}
+{"phase": "es", "it": 902, "mean": 369.3, "max": 423.1, "sec": 5.7}
+{"phase": "es", "it": 903, "mean": 265.2, "max": 339.8, "sec": 5.8}
+{"phase": "es", "it": 904, "mean": 288.2, "max": 351.8, "sec": 6.9}
+{"phase": "es", "it": 905, "mean": 334.1, "max": 368.2, "sec": 6.1}
+{"phase": "es", "it": 906, "mean": 347.9, "max": 405.4, "sec": 5.9}
+{"phase": "es", "it": 907, "mean": 344.3, "max": 393.2, "sec": 6.3}
+{"phase": "es", "it": 908, "mean": 405.6, "max": 440.1, "sec": 4.7}
+{"phase": "es", "it": 909, "mean": 350.9, "max": 405.1, "sec": 3.0}
+{"phase": "es", "it": 910, "mean": 411.3, "max": 461.6, "sec": 3.1, "eval": 367.6, "km": 53.6, "inc100": 38.24, "coll": 4, "red": 0, "stop": 9, "speed": 7.34}
+{"phase": "es", "it": 911, "mean": 416.1, "max": 451.4, "sec": 2.5}
+{"phase": "es", "it": 912, "mean": 354.0, "max": 410.0, "sec": 2.5}
+{"phase": "es", "it": 913, "mean": 304.2, "max": 345.1, "sec": 2.4}
+{"phase": "es", "it": 914, "mean": 402.7, "max": 430.8, "sec": 2.6}
+{"phase": "es", "it": 915, "mean": 366.4, "max": 437.9, "sec": 3.3}
+{"phase": "es", "it": 916, "mean": 374.5, "max": 428.4, "sec": 5.3}
+{"phase": "es", "it": 917, "mean": 432.5, "max": 470.0, "sec": 5.2}
+{"phase": "es", "it": 918, "mean": 386.5, "max": 421.4, "sec": 5.7}
+{"phase": "es", "it": 919, "mean": 382.4, "max": 409.5, "sec": 4.9}
+{"phase": "es", "it": 920, "mean": 361.3, "max": 430.7, "sec": 5.4, "eval": 387.2, "km": 55.38, "inc100": 34.67, "coll": 2, "red": 2, "stop": 9, "speed": 7.47}
+{"phase": "es", "it": 921, "mean": 363.7, "max": 419.7, "sec": 4.3}
+{"phase": "es", "it": 922, "mean": 389.7, "max": 446.0, "sec": 4.8}
+{"phase": "es", "it": 923, "mean": 444.5, "max": 474.4, "sec": 6.0}
+{"phase": "es", "it": 924, "mean": 373.1, "max": 421.7, "sec": 5.4}
+{"phase": "es", "it": 925, "mean": 419.0, "max": 467.3, "sec": 6.2}
+{"phase": "es", "it": 926, "mean": 318.8, "max": 346.5, "sec": 5.5}
+{"phase": "es", "it": 927, "mean": 310.8, "max": 378.6, "sec": 5.6}
+{"phase": "es", "it": 928, "mean": 269.9, "max": 318.6, "sec": 6.5}
+{"phase": "es", "it": 929, "mean": 316.0, "max": 402.4, "sec": 6.3}
+{"phase": "es", "it": 930, "mean": 341.3, "max": 388.0, "sec": 6.4, "eval": 359.2, "km": 53.79, "inc100": 44.81, "coll": 4, "red": 3, "stop": 8, "speed": 7.42}
+{"phase": "es", "it": 931, "mean": 339.4, "max": 408.9, "sec": 5.2}
+{"phase": "es", "it": 932, "mean": 316.9, "max": 356.5, "sec": 5.4}
+{"phase": "es", "it": 933, "mean": 352.3, "max": 397.4, "sec": 4.4}
+{"phase": "es", "it": 934, "mean": 343.2, "max": 387.3, "sec": 3.8}
+{"phase": "es", "it": 935, "mean": 441.8, "max": 459.3, "sec": 2.5}
+{"phase": "es", "it": 936, "mean": 293.4, "max": 348.1, "sec": 2.4}
+{"phase": "es", "it": 937, "mean": 309.1, "max": 374.5, "sec": 2.8}
+{"phase": "es", "it": 938, "mean": 327.7, "max": 429.3, "sec": 2.5}
+{"phase": "es", "it": 939, "mean": 371.7, "max": 407.0, "sec": 2.3}
+{"phase": "es", "it": 940, "mean": 389.3, "max": 429.6, "sec": 2.3, "eval": 364.0, "km": 52.41, "inc100": 36.25, "coll": 1, "red": 1, "stop": 7, "speed": 7.13}
+{"phase": "es", "it": 941, "mean": 442.8, "max": 474.5, "sec": 2.6}
+{"phase": "es", "it": 942, "mean": 306.8, "max": 356.9, "sec": 2.4}
+{"phase": "es", "it": 943, "mean": 383.4, "max": 409.4, "sec": 2.3}
+{"phase": "es", "it": 944, "mean": 435.0, "max": 462.8, "sec": 2.3}
+{"phase": "es", "it": 945, "mean": 411.2, "max": 455.1, "sec": 2.5}
+{"phase": "es", "it": 946, "mean": 301.7, "max": 382.3, "sec": 2.9}
+{"phase": "es", "it": 947, "mean": 321.5, "max": 375.3, "sec": 2.4}
+{"phase": "es", "it": 948, "mean": 363.9, "max": 373.9, "sec": 2.4}
+{"phase": "es", "it": 949, "mean": 377.9, "max": 414.0, "sec": 2.3}
+{"phase": "es", "it": 950, "mean": 346.3, "max": 395.2, "sec": 2.9, "eval": 372.8, "km": 53.43, "inc100": 33.87, "coll": 2, "red": 2, "stop": 7, "speed": 7.29}
+{"phase": "es", "it": 951, "mean": 345.3, "max": 412.8, "sec": 4.0}
+{"phase": "es", "it": 952, "mean": 389.2, "max": 417.3, "sec": 3.8}
+{"phase": "es", "it": 953, "mean": 383.3, "max": 414.0, "sec": 5.2}
+{"phase": "es", "it": 954, "mean": 370.8, "max": 443.3, "sec": 4.8}
+{"phase": "es", "it": 955, "mean": 288.4, "max": 350.0, "sec": 4.5}
+{"phase": "es", "it": 956, "mean": 324.9, "max": 372.1, "sec": 5.7}
+{"phase": "es", "it": 957, "mean": 370.7, "max": 431.6, "sec": 5.4}
+{"phase": "es", "it": 958, "mean": 374.6, "max": 426.0, "sec": 2.5}
+{"phase": "es", "it": 959, "mean": 445.5, "max": 461.5, "sec": 3.5}
+{"phase": "es", "it": 960, "mean": 383.9, "max": 433.2, "sec": 5.7, "eval": 384.1, "km": 54.3, "inc100": 30.2, "coll": 2, "red": 3, "stop": 7, "speed": 7.32}
+{"phase": "es", "it": 961, "mean": 412.9, "max": 433.5, "sec": 4.1}
+{"phase": "es", "it": 962, "mean": 311.0, "max": 342.1, "sec": 4.5}
+{"phase": "es", "it": 963, "mean": 398.1, "max": 462.7, "sec": 5.8}
+{"phase": "es", "it": 964, "mean": 385.6, "max": 423.4, "sec": 5.0}
+{"phase": "es", "it": 965, "mean": 376.0, "max": 436.2, "sec": 5.0}
+{"phase": "es", "it": 966, "mean": 360.3, "max": 403.8, "sec": 6.5}
+{"phase": "es", "it": 967, "mean": 341.7, "max": 405.6, "sec": 5.8}
+{"phase": "es", "it": 968, "mean": 291.5, "max": 349.5, "sec": 5.6}
+{"phase": "es", "it": 969, "mean": 275.4, "max": 340.1, "sec": 6.0}
+{"phase": "es", "it": 970, "mean": 412.5, "max": 436.5, "sec": 3.1, "eval": 369.2, "km": 53.88, "inc100": 36.01, "coll": 5, "red": 2, "stop": 7, "speed": 7.37}
+{"phase": "es", "it": 971, "mean": 357.9, "max": 419.3, "sec": 6.3}
+{"phase": "es", "it": 972, "mean": 295.2, "max": 352.9, "sec": 5.1}
+{"phase": "es", "it": 973, "mean": 192.7, "max": 274.5, "sec": 4.6}
+{"phase": "es", "it": 974, "mean": 349.8, "max": 408.8, "sec": 5.4}
+{"phase": "es", "it": 975, "mean": 345.4, "max": 436.9, "sec": 2.8}
+{"phase": "es", "it": 976, "mean": 287.7, "max": 348.5, "sec": 3.5}
+{"phase": "es", "it": 977, "mean": 348.4, "max": 416.3, "sec": 6.0}
+{"phase": "es", "it": 978, "mean": 332.9, "max": 371.1, "sec": 4.5}
+{"phase": "es", "it": 979, "mean": 361.7, "max": 419.2, "sec": 3.6}
+{"phase": "es", "it": 980, "mean": 298.7, "max": 421.6, "sec": 6.0, "eval": 370.2, "km": 54.65, "inc100": 39.89, "coll": 5, "red": 3, "stop": 7, "speed": 7.47}
+{"phase": "es", "it": 981, "mean": 340.5, "max": 400.6, "sec": 3.8}
+{"phase": "es", "it": 982, "mean": 373.3, "max": 407.7, "sec": 3.8}
+{"phase": "es", "it": 983, "mean": 386.8, "max": 419.6, "sec": 6.0}
+{"phase": "es", "it": 984, "mean": 394.2, "max": 420.2, "sec": 5.1}
+{"phase": "es", "it": 985, "mean": 295.4, "max": 356.6, "sec": 4.6}
+{"phase": "es", "it": 986, "mean": 311.0, "max": 372.4, "sec": 6.8}

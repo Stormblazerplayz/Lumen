@@ -1,0 +1,22 @@
+{
+  "domElement": "<lumen-robotaxi></lumen-robotaxi>",
+  "name": "Lumen Robotaxi",
+  "types": [
+    "ui.apps.categories.gameplay"
+  ],
+  "description": "Call a Lumen robotaxi, follow it on a live 2D map, pick a destination and ride.",
+  "css": {
+    "right": "24px",
+    "top": "120px",
+    "width": "330px",
+    "height": "580px",
+    "min-width": "280px",
+    "min-height": "420px"
+  },
+  "author": "Frontier Studios",
+  "version": "1.0",
+  "directive": "lumenRobotaxi",
+  "category": "Gameplay",
+  "isAuxiliary": false,
+  "interactive": "yes"
+}

@@ -1,0 +1,96 @@
+{
+ "drive|original": {
+  "km": 457.4623898628841,
+  "counts": {
+   "collision:cross|in lane": 5,
+   "red|in lane": 3
+  },
+  "near_s": {
+   "in lane": 0.30000000000000004
+  }
+ },
+ "nn|original": {
+  "km": 514.228003321927,
+  "counts": {
+   "collision:lead|returning": 2,
+   "red|in lane": 4,
+   "collision:cross|in lane": 5
+  },
+  "near_s": {
+   "returning": 0.5,
+   "in lane": 0.7
+  }
+ },
+ "control|original": {
+  "km": 496.690601642932,
+  "counts": {
+   "red|in lane": 5,
+   "collision:lead|returning": 1,
+   "collision:cross|in lane": 4
+  },
+  "near_s": {
+   "in lane": 0.6,
+   "returning": 0.7,
+   "going out": 0.29999999999999993
+  }
+ },
+ "drive|overtake": {
+  "km": 352.311361265557,
+  "counts": {},
+  "near_s": {}
+ },
+ "nn|overtake": {
+  "km": 535.1979093972368,
+  "counts": {
+   "red|in lane": 2,
+   "collision:lead|returning": 2,
+   "collision:oncoming|going out": 2,
+   "collision:cross|in lane": 1
+  },
+  "near_s": {
+   "returning": 1.3,
+   "in lane": 0.1,
+   "going out": 0.29999999999999993,
+   "just back": 0.1
+  }
+ },
+ "control|overtake": {
+  "km": 506.64928415434963,
+  "counts": {
+   "collision:lead|returning": 2,
+   "collision:cross|in lane": 1
+  },
+  "near_s": {
+   "returning": 2.5999999999999996,
+   "going out": 1.0999999999999999,
+   "in lane": 0.30000000000000004
+  }
+ },
+ "drive|start_stop": {
+  "km": 325.55980621176434,
+  "counts": {
+   "collision:cross|in lane": 10
+  },
+  "near_s": {
+   "in lane": 0.9
+  }
+ },
+ "nn|start_stop": {
+  "km": 326.83208877850007,
+  "counts": {
+   "collision:cross|in lane": 18
+  },
+  "near_s": {
+   "in lane": 2.0
+  }
+ },
+ "control|start_stop": {
+  "km": 324.4945535233123,
+  "counts": {
+   "collision:cross|in lane": 12
+  },
+  "near_s": {
+   "in lane": 2.2
+  }
+ }
+}

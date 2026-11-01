@@ -1,0 +1,105 @@
+{"event": "start", "generations": 100, "workers": 5, "hashes": {"a4_train.py": "c9620a2b749bc75e", "brains4.py": "55a0b7ac6e80db22", "brains2.py": "c4eeca6f3d933362", "shield.py": "654f61b4db39ff22", "caution.py": "e9ea728b8ff2d23b", "sim.py": "0f8ef101a3e19b95", "brains.py": "a0fda8fbc24ebf28", "eval2.py": "ef73114bdc5865e9", "a3_extra.py": "3dc5aac252570729", "train_es.py": "c9c819879931b798", "a2_final.npz": "05cc23788d4aee64", "lumen_nn_final.npz": "2cb55b1d65450346"}, "t": "14:58:25"}
+{"event": "dev", "g": -1, "dev": {"original": {"reward": 481.0, "m_ep": 483.6, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 501.4, "m_ep": 509.0, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.0}, "t": "14:58:50"}
+{"event": "gen", "g": 0, "mean": 514.9, "max": 516.0, "min": 514.3, "sigma": 0.4993, "sec": 53.5, "t": "14:59:43"}
+{"event": "gen", "g": 1, "mean": 493.6, "max": 494.4, "min": 491.4, "sigma": 0.4986, "sec": 53.8, "t": "15:00:37"}
+{"event": "gen", "g": 2, "mean": 475.1, "max": 478.3, "min": 474.2, "sigma": 0.4979, "sec": 54.5, "t": "15:01:32"}
+{"event": "gen", "g": 3, "mean": 223.9, "max": 230.6, "min": 218.6, "sigma": 0.4972, "sec": 47.3, "t": "15:02:19"}
+{"event": "gen", "g": 4, "mean": 491.1, "max": 491.3, "min": 490.9, "sigma": 0.4966, "sec": 54.5, "dev": {"original": {"reward": 481.6, "m_ep": 484.2, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 505.9, "m_ep": 513.7, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.6}, "t": "15:03:42"}
+{"event": "gen", "g": 5, "mean": 453.2, "max": 453.6, "min": 449.1, "sigma": 0.4959, "sec": 67.0, "t": "15:04:49"}
+{"event": "gen", "g": 6, "mean": 461.6, "max": 461.6, "min": 461.6, "sigma": 0.4953, "sec": 67.7, "t": "15:05:57"}
+{"event": "gen", "g": 7, "mean": 426.9, "max": 479.5, "min": 314.9, "sigma": 0.4946, "sec": 68.0, "t": "15:07:05"}
+{"event": "gen", "g": 8, "mean": 467.2, "max": 467.2, "min": 467.2, "sigma": 0.494, "sec": 66.4, "t": "15:08:11"}
+{"event": "gen", "g": 9, "mean": 96.6, "max": 186.0, "min": 27.1, "sigma": 0.4934, "sec": 68.0, "dev": {"original": {"reward": 482.3, "m_ep": 484.9, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 507.0, "m_ep": 514.8, "inc100": 0.0, "coll": 0, "red": 0}, "score": 482.3}, "t": "15:09:52"}
+{"event": "gen", "g": 10, "mean": 478.2, "max": 478.3, "min": 478.0, "sigma": 0.4928, "sec": 72.1, "t": "15:11:04"}
+{"event": "gen", "g": 11, "mean": 211.7, "max": 212.2, "min": 211.2, "sigma": 0.4921, "sec": 67.1, "t": "15:12:11"}
+{"event": "gen", "g": 12, "mean": 347.6, "max": 355.8, "min": 346.9, "sigma": 0.4915, "sec": 69.4, "t": "15:13:21"}
+{"event": "gen", "g": 13, "mean": 518.6, "max": 519.2, "min": 515.1, "sigma": 0.4909, "sec": 71.3, "t": "15:14:32"}
+{"event": "gen", "g": 14, "mean": 469.4, "max": 469.9, "min": 461.8, "sigma": 0.4903, "sec": 71.9, "dev": {"original": {"reward": 481.7, "m_ep": 484.2, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 511.1, "m_ep": 518.9, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.7}, "t": "15:16:17"}
+{"event": "gen", "g": 15, "mean": 494.7, "max": 494.9, "min": 494.3, "sigma": 0.4898, "sec": 72.6, "t": "15:17:30"}
+{"event": "gen", "g": 16, "mean": 334.4, "max": 336.8, "min": 334.0, "sigma": 0.4892, "sec": 69.3, "t": "15:18:39"}
+{"event": "gen", "g": 17, "mean": 359.3, "max": 359.6, "min": 359.0, "sigma": 0.4886, "sec": 70.6, "t": "15:19:50"}
+{"event": "gen", "g": 18, "mean": 348.2, "max": 348.7, "min": 346.8, "sigma": 0.488, "sec": 71.6, "t": "15:21:01"}
+{"event": "gen", "g": 19, "mean": 180.6, "max": 238.5, "min": 77.6, "sigma": 0.4875, "sec": 67.9, "dev": {"original": {"reward": 481.8, "m_ep": 484.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 511.1, "m_ep": 518.9, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "15:22:41"}
+{"event": "gen", "g": 20, "mean": 373.5, "max": 373.6, "min": 373.4, "sigma": 0.4869, "sec": 73.8, "t": "15:23:55"}
+{"event": "gen", "g": 21, "mean": 496.9, "max": 497.0, "min": 496.7, "sigma": 0.4863, "sec": 84.4, "t": "15:25:20"}
+{"event": "gen", "g": 22, "mean": 492.1, "max": 504.6, "min": 340.1, "sigma": 0.4858, "sec": 66.9, "t": "15:26:26"}
+{"event": "gen", "g": 23, "mean": 526.6, "max": 527.7, "min": 518.5, "sigma": 0.4852, "sec": 66.2, "t": "15:27:33"}
+{"event": "gen", "g": 24, "mean": 341.0, "max": 341.2, "min": 339.6, "sigma": 0.4847, "sec": 65.3, "dev": {"original": {"reward": 481.8, "m_ep": 484.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 506.4, "m_ep": 514.8, "inc100": 0.15, "coll": 0, "red": 0}, "score": 481.8}, "t": "15:29:10"}
+{"event": "gen", "g": 25, "mean": 327.1, "max": 327.2, "min": 327.1, "sigma": 0.4841, "sec": 63.8, "t": "15:30:14"}
+{"event": "gen", "g": 26, "mean": 481.0, "max": 481.1, "min": 481.0, "sigma": 0.4836, "sec": 67.5, "t": "15:31:21"}
+{"event": "gen", "g": 27, "mean": 342.3, "max": 345.0, "min": 337.9, "sigma": 0.4831, "sec": 65.5, "t": "15:32:27"}
+{"event": "gen", "g": 28, "mean": 23.8, "max": 23.9, "min": 23.3, "sigma": 0.4825, "sec": 64.7, "t": "15:33:32"}
+{"event": "gen", "g": 29, "mean": 488.5, "max": 488.6, "min": 488.5, "sigma": 0.482, "sec": 65.4, "dev": {"original": {"reward": 481.8, "m_ep": 484.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 510.3, "m_ep": 517.9, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "15:35:10"}
+{"event": "gen", "g": 30, "mean": 419.9, "max": 508.1, "min": 349.9, "sigma": 0.4815, "sec": 65.7, "t": "15:36:15"}
+{"event": "gen", "g": 31, "mean": 327.6, "max": 327.8, "min": 327.4, "sigma": 0.481, "sec": 65.6, "t": "15:37:21"}
+{"event": "gen", "g": 32, "mean": 542.8, "max": 543.3, "min": 542.1, "sigma": 0.4805, "sec": 67.1, "t": "15:38:28"}
+{"event": "gen", "g": 33, "mean": 304.4, "max": 305.4, "min": 303.1, "sigma": 0.48, "sec": 64.3, "t": "15:39:32"}
+{"event": "gen", "g": 34, "mean": 491.2, "max": 492.0, "min": 491.2, "sigma": 0.4794, "sec": 71.5, "dev": {"original": {"reward": 481.8, "m_ep": 484.2, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 507.5, "m_ep": 515.1, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "15:41:15"}
+{"event": "gen", "g": 35, "mean": 515.3, "max": 515.7, "min": 513.9, "sigma": 0.4789, "sec": 62.4, "t": "15:42:17"}
+{"event": "gen", "g": 36, "mean": 339.0, "max": 339.0, "min": 339.0, "sigma": 0.4784, "sec": 67.1, "t": "15:43:24"}
+{"event": "gen", "g": 37, "mean": 497.7, "max": 498.4, "min": 488.7, "sigma": 0.4779, "sec": 69.2, "t": "15:44:33"}
+{"event": "gen", "g": 38, "mean": 36.8, "max": 178.2, "min": 16.5, "sigma": 0.4774, "sec": 71.0, "t": "15:45:44"}
+{"event": "gen", "g": 39, "mean": 323.4, "max": 323.5, "min": 323.3, "sigma": 0.477, "sec": 67.3, "dev": {"original": {"reward": 481.2, "m_ep": 483.4, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 503.7, "m_ep": 512.0, "inc100": 0.15, "coll": 0, "red": 0}, "score": 481.2}, "t": "15:47:24"}
+{"event": "gen", "g": 40, "mean": 308.2, "max": 310.4, "min": 307.6, "sigma": 0.4765, "sec": 70.9, "t": "15:48:35"}
+{"event": "gen", "g": 41, "mean": 524.4, "max": 535.7, "min": 369.3, "sigma": 0.476, "sec": 68.6, "t": "15:49:44"}
+{"event": "gen", "g": 42, "mean": 345.0, "max": 345.2, "min": 344.5, "sigma": 0.4755, "sec": 69.8, "t": "15:50:53"}
+{"event": "gen", "g": 43, "mean": 441.4, "max": 446.8, "min": 441.0, "sigma": 0.475, "sec": 71.0, "t": "15:52:04"}
+{"event": "gen", "g": 44, "mean": 318.2, "max": 318.5, "min": 316.9, "sigma": 0.4745, "sec": 70.5, "dev": {"original": {"reward": 481.8, "m_ep": 484.2, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 507.6, "m_ep": 515.3, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "15:53:49"}
+{"event": "gen", "g": 45, "mean": 448.1, "max": 448.2, "min": 448.1, "sigma": 0.4741, "sec": 71.8, "t": "15:55:00"}
+{"event": "gen", "g": 46, "mean": 191.9, "max": 192.0, "min": 191.8, "sigma": 0.4736, "sec": 70.5, "t": "15:56:11"}
+{"event": "gen", "g": 47, "mean": 514.8, "max": 518.3, "min": 514.2, "sigma": 0.4731, "sec": 73.5, "t": "15:57:24"}
+{"event": "gen", "g": 48, "mean": 321.3, "max": 332.7, "min": 170.6, "sigma": 0.4727, "sec": 70.0, "t": "15:58:34"}
+{"event": "gen", "g": 49, "mean": 502.1, "max": 502.9, "min": 500.8, "sigma": 0.4722, "sec": 71.5, "dev": {"original": {"reward": 481.8, "m_ep": 484.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 507.5, "m_ep": 515.3, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "16:00:20"}
+{"event": "gen", "g": 50, "mean": 466.8, "max": 467.4, "min": 466.6, "sigma": 0.4717, "sec": 69.4, "t": "16:01:29"}
+{"event": "gen", "g": 51, "mean": 514.3, "max": 514.5, "min": 514.2, "sigma": 0.4713, "sec": 65.8, "t": "16:02:35"}
+{"event": "gen", "g": 52, "mean": 326.3, "max": 346.5, "min": 187.5, "sigma": 0.4708, "sec": 63.7, "t": "16:03:39"}
+{"event": "gen", "g": 53, "mean": 507.2, "max": 507.3, "min": 507.0, "sigma": 0.4704, "sec": 64.1, "t": "16:04:43"}
+{"event": "gen", "g": 54, "mean": 486.3, "max": 492.5, "min": 484.2, "sigma": 0.4699, "sec": 70.3, "dev": {"original": {"reward": 481.8, "m_ep": 484.2, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 507.5, "m_ep": 515.3, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "16:06:25"}
+{"event": "gen", "g": 55, "mean": 355.8, "max": 358.2, "min": 350.3, "sigma": 0.4695, "sec": 64.5, "t": "16:07:30"}
+{"event": "gen", "g": 56, "mean": 487.1, "max": 487.2, "min": 487.0, "sigma": 0.469, "sec": 65.6, "t": "16:08:35"}
+{"event": "gen", "g": 57, "mean": 213.0, "max": 343.8, "min": 181.9, "sigma": 0.4686, "sec": 66.3, "t": "16:09:42"}
+{"event": "gen", "g": 58, "mean": 520.3, "max": 520.8, "min": 519.2, "sigma": 0.4682, "sec": 65.4, "t": "16:10:47"}
+{"event": "gen", "g": 59, "mean": 435.5, "max": 435.7, "min": 435.3, "sigma": 0.4677, "sec": 64.7, "dev": {"original": {"reward": 481.1, "m_ep": 483.5, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 510.5, "m_ep": 518.4, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.1}, "t": "16:12:23"}
+{"event": "gen", "g": 60, "mean": 490.9, "max": 491.3, "min": 487.9, "sigma": 0.4673, "sec": 64.3, "t": "16:13:27"}
+{"event": "gen", "g": 61, "mean": 506.4, "max": 506.6, "min": 505.8, "sigma": 0.4669, "sec": 64.1, "t": "16:14:31"}
+{"event": "gen", "g": 62, "mean": 459.6, "max": 460.1, "min": 453.5, "sigma": 0.4664, "sec": 63.0, "t": "16:15:34"}
+{"event": "gen", "g": 63, "mean": 472.4, "max": 472.9, "min": 472.0, "sigma": 0.466, "sec": 63.1, "t": "16:16:37"}
+{"event": "gen", "g": 64, "mean": 513.0, "max": 513.3, "min": 512.8, "sigma": 0.4656, "sec": 63.0, "dev": {"original": {"reward": 480.7, "m_ep": 483.0, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 502.1, "m_ep": 512.0, "inc100": 0.46, "coll": 0, "red": 0}, "score": 480.7}, "t": "16:18:12"}
+{"event": "gen", "g": 65, "mean": 9.7, "max": 157.3, "min": -3.2, "sigma": 0.4651, "sec": 64.5, "t": "16:19:17"}
+{"event": "gen", "g": 66, "mean": 341.2, "max": 341.9, "min": 340.1, "sigma": 0.4647, "sec": 69.9, "t": "16:20:27"}
+{"event": "gen", "g": 67, "mean": 318.2, "max": 318.3, "min": 317.9, "sigma": 0.4643, "sec": 64.5, "t": "16:21:31"}
+{"event": "gen", "g": 68, "mean": 309.0, "max": 309.5, "min": 308.4, "sigma": 0.4639, "sec": 64.2, "t": "16:22:35"}
+{"event": "gen", "g": 69, "mean": 526.9, "max": 528.8, "min": 523.7, "sigma": 0.4635, "sec": 66.4, "dev": {"original": {"reward": 481.2, "m_ep": 483.6, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 504.5, "m_ep": 512.0, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.2}, "t": "16:24:13"}
+{"event": "gen", "g": 70, "mean": 23.4, "max": 24.0, "min": 22.2, "sigma": 0.4631, "sec": 64.0, "t": "16:25:17"}
+{"event": "gen", "g": 71, "mean": 512.2, "max": 512.4, "min": 511.7, "sigma": 0.4627, "sec": 64.0, "t": "16:26:21"}
+{"event": "gen", "g": 72, "mean": 499.0, "max": 501.0, "min": 496.4, "sigma": 0.4623, "sec": 67.0, "t": "16:27:28"}
+{"event": "gen", "g": 73, "mean": 319.9, "max": 319.9, "min": 319.8, "sigma": 0.4619, "sec": 67.0, "t": "16:28:35"}
+{"event": "gen", "g": 74, "mean": 442.4, "max": 442.6, "min": 441.0, "sigma": 0.4615, "sec": 66.2, "dev": {"original": {"reward": 481.8, "m_ep": 484.2, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 503.7, "m_ep": 512.0, "inc100": 0.15, "coll": 0, "red": 0}, "score": 481.8}, "t": "16:30:12"}
+{"event": "gen", "g": 75, "mean": 492.4, "max": 492.7, "min": 492.3, "sigma": 0.4611, "sec": 62.4, "t": "16:31:14"}
+{"event": "gen", "g": 76, "mean": 510.9, "max": 511.1, "min": 508.5, "sigma": 0.4607, "sec": 61.5, "t": "16:32:16"}
+{"event": "gen", "g": 77, "mean": 502.3, "max": 502.4, "min": 502.1, "sigma": 0.4603, "sec": 60.7, "t": "16:33:17"}
+{"event": "gen", "g": 78, "mean": 315.0, "max": 325.3, "min": 162.5, "sigma": 0.4599, "sec": 64.5, "t": "16:34:21"}
+{"event": "gen", "g": 79, "mean": 334.8, "max": 337.9, "min": 333.7, "sigma": 0.4595, "sec": 65.2, "dev": {"original": {"reward": 481.8, "m_ep": 484.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 503.7, "m_ep": 512.0, "inc100": 0.15, "coll": 0, "red": 0}, "score": 481.8}, "t": "16:35:57"}
+{"event": "gen", "g": 80, "mean": 468.4, "max": 468.5, "min": 468.4, "sigma": 0.4591, "sec": 66.6, "t": "16:37:04"}
+{"event": "gen", "g": 81, "mean": 450.3, "max": 450.7, "min": 450.0, "sigma": 0.4587, "sec": 67.0, "t": "16:38:11"}
+{"event": "gen", "g": 82, "mean": 487.2, "max": 487.2, "min": 487.2, "sigma": 0.4583, "sec": 65.6, "t": "16:39:16"}
+{"event": "gen", "g": 83, "mean": 371.3, "max": 510.1, "min": 346.2, "sigma": 0.4579, "sec": 63.6, "t": "16:40:20"}
+{"event": "gen", "g": 84, "mean": 352.9, "max": 353.0, "min": 352.9, "sigma": 0.4575, "sec": 64.4, "dev": {"original": {"reward": 481.8, "m_ep": 484.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 504.4, "m_ep": 512.0, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "16:41:54"}
+{"event": "gen", "g": 85, "mean": 475.4, "max": 476.4, "min": 474.5, "sigma": 0.4572, "sec": 63.5, "t": "16:42:58"}
+{"event": "gen", "g": 86, "mean": 525.6, "max": 525.7, "min": 525.6, "sigma": 0.4568, "sec": 62.9, "t": "16:44:00"}
+{"event": "gen", "g": 87, "mean": 520.0, "max": 520.1, "min": 520.0, "sigma": 0.4564, "sec": 62.0, "t": "16:45:02"}
+{"event": "gen", "g": 88, "mean": 490.8, "max": 490.9, "min": 489.3, "sigma": 0.456, "sec": 63.7, "t": "16:46:06"}
+{"event": "gen", "g": 89, "mean": 499.0, "max": 501.9, "min": 496.7, "sigma": 0.4557, "sec": 61.7, "dev": {"original": {"reward": 481.8, "m_ep": 484.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 502.9, "m_ep": 512.0, "inc100": 0.31, "coll": 0, "red": 0}, "score": 481.8}, "t": "16:47:38"}
+{"event": "gen", "g": 90, "mean": 447.9, "max": 520.4, "min": 354.5, "sigma": 0.4553, "sec": 64.6, "t": "16:48:42"}
+{"event": "gen", "g": 91, "mean": 494.5, "max": 495.0, "min": 490.5, "sigma": 0.4549, "sec": 64.9, "t": "16:49:47"}
+{"event": "gen", "g": 92, "mean": 511.4, "max": 511.6, "min": 509.8, "sigma": 0.4545, "sec": 61.6, "t": "16:50:49"}
+{"event": "gen", "g": 93, "mean": 323.6, "max": 333.5, "min": 318.4, "sigma": 0.4542, "sec": 68.1, "t": "16:51:57"}
+{"event": "gen", "g": 94, "mean": 359.0, "max": 362.3, "min": 352.9, "sigma": 0.4538, "sec": 63.8, "dev": {"original": {"reward": 481.8, "m_ep": 484.2, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 504.1, "m_ep": 511.5, "inc100": 0.0, "coll": 0, "red": 0}, "score": 481.8}, "t": "16:53:31"}
+{"event": "gen", "g": 95, "mean": 535.7, "max": 536.3, "min": 535.4, "sigma": 0.4535, "sec": 59.2, "t": "16:54:30"}
+{"event": "gen", "g": 96, "mean": 460.9, "max": 461.0, "min": 460.6, "sigma": 0.4531, "sec": 66.2, "t": "16:55:37"}
+{"event": "gen", "g": 97, "mean": 516.0, "max": 517.3, "min": 513.5, "sigma": 0.4527, "sec": 66.8, "t": "16:56:43"}
+{"event": "gen", "g": 98, "mean": 486.4, "max": 486.6, "min": 486.1, "sigma": 0.4524, "sec": 66.7, "t": "16:57:50"}
+{"event": "gen", "g": 99, "mean": 510.7, "max": 510.7, "min": 510.6, "sigma": 0.452, "sec": 65.2, "dev": {"original": {"reward": 483.9, "m_ep": 486.3, "inc100": 0.08, "coll": 0, "red": 0}, "overtake": {"reward": 504.5, "m_ep": 512.0, "inc100": 0.0, "coll": 0, "red": 0}, "score": 483.9}, "t": "16:59:27"}
+{"event": "frozen", "best_g": 99, "dev_score": 483.9, "t": "16:59:27"}
+{"event": "staged", "file": "staged/nn_weights_a4.json", "t": "16:59:28"}
+{"event": "heldout_done", "returncode": 0, "t": "17:10:39"}
